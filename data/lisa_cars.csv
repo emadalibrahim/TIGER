@@ -1,0 +1,183 @@
+﻿Model,Trim,Class,Type,Origin,Fuel,Price,Efficiency,Weight,Engine Displacement,Total Cost,Total Emission
+Audi A1 Sportback,30 TFSI,Hatchback,ICEV,import,gas,128,17.6,1160,999,7.167,0.19
+Audi A3 Sportback,30 TFSI,Hatchback,ICEV,import,gas,146,20.1,1316,999,7.773,0.172
+Audi A3 Sportback,35 TFSI,Hatchback,ICEV,import,gas,158,18.7,1365,1498,8.5,0.184
+Audi A3 Sportback,35 TFSI S Line,Hatchback,ICEV,import,gas,178,18.7,1365,1498,9.321,0.184
+Audi A3 Sportback,S3 Sportback,Hatchback,ICEV,import,gas,272,12.2,1571,1984,13.992,0.271
+Audi e-tron GT,quattro,Sedan,BEV,import,electronic,466,5.1,2319,,19.711,0.19
+Audi Q8 e-tron,50,SUV,BEV,import,electronic,318.5,5.5,2585,,13.629,0.189
+Audi Q8 e-tron,55,SUV,BEV,import,electronic,368.5,5.5,2585,,15.682,0.189
+Audi Q8 e-tron,SQ8,SUV,BEV,import,electronic,426.5,4.3,2725,,18.157,0.224
+Audi Q8 Sportback e-tron,50 quattri S line,SUV,BEV,import,electronic,345.5,5.7,2585,,14.725,0.185
+Audi Q8 Sportback e-tron,50 quattro S line,SUV,BEV,import,electronic,388.5,5.7,2585,,16.491,0.185
+Audi Q8 Sportback e-tron,SQ8,SUV,BEV,import,electronic,438.5,4.5,2725,,18.631,0.218
+BMW 3 Series,318i Sport,Sedan,ICEV,import,gas,216,14.9,1500,1998,11.412,0.227
+BMW 3 Series,320i M Sport,Sedan,ICEV,import,gas,246,16.7,1515,1998,12.507,0.206
+BMW 3 Series,330i M Sport,Sedan,ICEV,import,gas,296,15.9,1525,1998,14.617,0.215
+BMW 5 Series,520i M Sport,Sedan,HEV,import,gas,296,18.5,1725,1998,14.45,0.204
+BMW i4,eDrive40,Sedan,BEV,import,electronic,270,6.8,2050,,11.573,0.152
+BMW i4,M50,Sedan,BEV,import,electronic,325,5.9,2050,,13.873,0.165
+BMW i5,eDrive40 M Sport,Sedan,BEV,import,electronic,329,6.7,2130,,13.999,0.156
+BMW i5,M60 xDrive,Sedan,BEV,import,electronic,485,5.9,2305,,20.441,0.173
+BMW i7,eDrive Excellent,Sedan,BEV,import,electronic,598,6.6,2520,,25.047,0.169
+BMW iX,xDrive40,SUV,BEV,import,electronic,339,5.4,2365,,14.477,0.185
+BMW iX,xDrive50,SUV,BEV,import,electronic,439,5.4,2510,,18.582,0.189
+BMW iX,M60,SUV,BEV,import,electronic,638,4.6,2584,,26.812,0.211
+BMW iX1,xDrive30,SUV,BEV,import,electronic,222,5.7,2085,,9.655,0.17
+BMW iX1,xDrive20,SUV,BEV,import,electronic,212,6.1,1940,,9.223,0.159
+CMC Zinger,5P Peugeot,SUV,ICEV,domestic,gas,71.9,13.4,1590,1481,5.364,0.25
+Ford Focus,EcoBoost 182 X,Hatchback,ICEV,domestic,gas,83.9,17.1,1310,1497,5.552,0.197
+Ford Focus,Active EcoBoost 182 X,Hatchback,ICEV,domestic,gas,90.9,16.8,1365,1497,5.859,0.202
+Ford Focus,EcoBoost 182 ST-Line X,Hatchback,ICEV,domestic,gas,93.9,16.2,1345,1497,6.024,0.208
+Ford Focus,Active EcoBoost 182 Vignale,Hatchback,ICEV,domestic,gas,96.9,16.2,1380,1497,6.147,0.208
+Ford Focus,EcoBoost 182 ST-Line Vignale,Hatchback,ICEV,domestic,gas,97.9,16.8,1380,1497,6.147,0.202
+Ford Mustang Mach-E,Select,SUV,BEV,import,electronic,189.9,5.5,2105,,8.349,0.175
+Ford Mustang Mach-E,Premium,SUV,BEV,import,electronic,230.9,5.1,2185,,10.059,0.186
+Ford Mustang Mach-E,GT,SUV,BEV,import,electronic,249.9,4.5,2278,,10.888,0.204
+Honda Civic,Civic e,Hatchback,HEV,import,gas,139.9,23.7,1502,1993,7.818,0.163
+Honda CR-V,Vti-S,SUV,ICEV,domestic,gas,105.9,15,1588,1498,6.61,0.227
+Honda CR-V,S,SUV,ICEV,domestic,gas,117.9,15,1601,1498,7.103,0.227
+Honda CR-V,Prestige,SUV,ICEV,domestic,gas,127.9,14.7,1640,1498,7.539,0.232
+Honda Fit,1.5,Hatchback,ICEV,domestic,gas,75.9,17.9,1117,1498,5.174,0.186
+Honda Fit,1.5H,Hatchback,ICEV,domestic,gas,82.9,26.9,1229,1498,5.109,0.134
+Honda HR-V,S+,SUV,ICEV,domestic,gas,83.9,17,1270,1497,5.559,0.198
+Honda HR-V,Prestige,SUV,ICEV,domestic,gas,89.9,17,1274,1497,5.805,0.198
+Hyundai Ioniq 5,EV400,SUV,BEV,import,electronic,159.9,6.5,1853,,7.065,0.15
+Hyundai Ioniq 5,EV600,SUV,BEV,import,electronic,187.9,7.1,1982,,8.191,0.146
+Hyundai Ioniq 5,EV600 Performance,SUV,BEV,import,electronic,207.9,6.2,2126,,9.05,0.163
+Hyundai Ioniq 6,EV400,Sedan,BEV,import,electronic,159.9,7.7,1788,,7.021,0.133
+Hyundai Ioniq 6,EV600,Sedan,BEV,import,electronic,189.9,7.2,1938,,8.269,0.143
+Hyundai Ioniq 6,EV600 Performance,Sedan,BEV,import,electronic,209.9,5.8,2062,,9.153,0.168
+Hyundai Tucson L,GLT-A,SUV,ICEV,domestic,gas,99.9,15.7,1521,1598,6.307,0.217
+Hyundai Tucson L,GLT-B,SUV,ICEV,domestic,gas,109.9,15.7,1566,1598,6.718,0.218
+Hyundai Tucson L,GLTH-A,SUV,ICEV,domestic,gas,110.9,20.9,1627,1598,6.46,0.173
+Hyundai Tucson L,GLTH-B,SUV,ICEV,domestic,gas,120.9,20.9,1627,1598,6.87,0.173
+Hyundai Tucson L,GLTH-C,SUV,ICEV,domestic,gas,128.9,21.1,1666,1598,7.19,0.172
+Hyundai Venue,GLB,SUV,ICEV,domestic,gas,72.9,17.1,1195,1598,5.1,0.195
+Hyundai Venue,GLC,SUV,ICEV,domestic,gas,78.9,17.1,1200,1598,5.347,0.195
+Kia EV6,Light,SUV,BEV,import,electronic,166.9,6.8,1857,,7.34,0.146
+Kia EV6,Air,SUV,BEV,import,electronic,197.9,6.4,1959,,8.63,0.155
+Kia EV6,GT-Line,SUV,BEV,import,electronic,208.9,6.4,2003,,9.082,0.156
+Kia EV6,GT-Line e-AWD,SUV,BEV,import,electronic,219.9,5.7,2107,,9.569,0.171
+Kia Picanto,Colorful,Hatchback,ICEV,import,gas,56.5,18.3,972,1197,4.191,0.179
+Kia Picanto,Metropolis,Hatchback,ICEV,import,gas,61.5,18,986,1197,4.413,0.182
+Kia Picanto,X-Line,Hatchback,ICEV,import,gas,66.5,18,1006,1197,4.619,0.183
+Kia Picanto,GT-Line Plus,Hatchback,ICEV,import,gas,68.5,18.2,1005,1197,4.689,0.181
+Kia Sportage,Trendy,SUV,ICEV,import,gas,117.9,13.9,1554,1598,7.202,0.242
+Kia Sportage,Apex,SUV,ICEV,import,gas,127.9,13.9,1566,1598,7.613,0.242
+Kia Sportage,X-Line,SUV,ICEV,import,gas,138.9,13,1666,1598,8.158,0.259
+Lexus ES,ES 200,Sedan,HEV,import,gas,177,15.7,1625,1987,9.747,0.229
+Lexus ES,ES 300H,Sedan,HEV,import,gas,203,20,1735,2487,10.805,0.192
+Lexus ES,ES 250F Sport,Sedan,HEV,import,gas,218,14.3,1640,2487,11.797,0.248
+Lexus ES,ES 300H F Sport,Sedan,HEV,import,gas,220,20,1735,2487,11.503,0.192
+Lexus RZ 450e,,SUV,BEV,import,electronic,279,5.6,2100,,12.001,0.172
+Luxgen n7,5P Pure ,SUV,BEV,domestic,electronic,109.9,7.6,1935,,4.971,0.139
+Luxgen n7,5P Hightlight,SUV,BEV,domestic,electronic,129.9,7.6,1935,,5.792,0.139
+Luxgen n7,7P Hightlight,SUV,BEV,domestic,electronic,134.9,7,1975,,6.019,0.147
+Mazda CX-30,20S,SUV,ICEV,import,gas,93.8,15,1408,1998,6.387,0.223
+Mazda CX-5,20S Select,SUV,ICEV,import,gas,107.9,13.8,1565,1998,7.076,0.244
+Mazda CX-5,25T 2WD Sport Edition,SUV,ICEV,import,gas,133,12.4,1620,2488,8.51,0.269
+Mazda CX-5,25T AWD GT Premium,SUV,ICEV,import,gas,143,11.6,1700,2488,9.026,0.286
+Mazda CX-60,25S Elite,SUV,ICEV,import,gas,118.9,13.1,1710,2488,7.85,0.258
+Mazda CX-60,25S AWD Exclusive,SUV,ICEV,import,gas,139.9,12.6,1758,2488,8.769,0.268
+Mazda CX-60,33T AWD Exclusive Sport,SUV,HEV,import,gas,168.9,14,1924,3283,10.531,0.26
+Mazda Mazda3,20S Carbon Edition,Hatchback,ICEV,import,gas,87.8,15.2,1370,1998,6.124,0.22
+Mercedes-Benz C-Class,C180,Sedan,ICEV,import,gas,220,16.3,1625,1496,11.194,0.212
+Mercedes-Benz C-Class,C200,Sedan,ICEV,import,gas,256,15.4,1650,1496,12.739,0.223
+Mercedes-Benz C-Class,C300,Sedan,ICEV,import,gas,300,14.3,1675,1999,14.914,0.238
+Mercedes-Benz E-Class,E200,Sedan,HEV,import,gas,293,15.3,1825,1999,14.54,0.24
+Mercedes-Benz E-Class,E300,Sedan,HEV,import,gas,347,13.7,1855,1999,16.902,0.263
+Mercedes-Benz E-Class,E300 Exclusive,Sedan,HEV,import,gas,355,13.7,1855,1999,17.23,0.263
+Mercedes-Benz EQA,250,SUV,BEV,import,electronic,217,7.9,2045,,9.359,0.139
+Mercedes-Benz EQB,250+,SUV,BEV,import,electronic,222,6.1,2105,,9.634,0.164
+Mercedes-Benz EQB,300 4Matic,SUV,BEV,import,electronic,267,6.1,2165,,11.481,0.166
+Mercedes-EQ EQS,450+,Sedan,BEV,import,electronic,588,6.5,2480,,24.641,0.169
+Mercedes-EQ EQS,4Matic,SUV,BEV,import,electronic,603,5,2805,,25.343,0.207
+MG HS,1.5T,SUV,ICEV,domestic,gas,91.5,13.5,1548,1490,6.159,0.248
+MG HS,2.0T,SUV,ICEV,domestic,gas,106.9,10.1,1725,1995,7.536,0.324
+MG ZS,1.5L,SUV,ICEV,domestic,gas,74.9,15.3,1318,1498,5.313,0.218
+Mitsubishi Colt Plus,Hedonic,Hatchback,ICEV,domestic,gas,53.9,15.9,1180,1499,4.404,0.208
+Mitsubishi Colt Plus,Relaxed,Hatchback,ICEV,domestic,gas,57.9,16.1,1180,1499,4.553,0.205
+Mitsubishi Lancer,Exclamation,Sedan,ICEV,domestic,gas,67.2,15.5,1380,1798,4.98,0.217
+Mitsubishi Lancer,Charismatic,Sedan,ICEV,domestic,gas,72.2,15.5,1380,1798,5.186,0.217
+Mitsubishi Lancer,Ultimate,Sedan,ICEV,domestic,gas,81.2,15.1,1420,1798,5.588,0.222
+Nissan Kicks,Excellence,SUV,ICEV,domestic,gas,81.5,16,1194,1598,5.529,0.207
+Nissan Kicks,Ultimate,SUV,ICEV,domestic,gas,85,16,1194,1598,5.673,0.207
+Nissan Leaf,,Hatchback,BEV,import,electronic,139,6,1729,,6.231,0.154
+Nissan Sentra,Ultimate,Sedan,ICEV,domestic,gas,77,17.7,1275,1598,5.231,0.191
+Nissan Sentra,Honor ,Sedan,ICEV,domestic,gas,83,17.7,1275,1598,5.478,0.191
+Nissan Sentra,Honor Smart Driving,Sedan,ICEV,domestic,gas,86.5,17.7,1285,1598,5.621,0.191
+Nissan X-Trail,Classic,SUV,ICEV,domestic,gas,104.9,16,1608,1497,6.49,0.215
+Nissan X-Trail,Pilot,SUV,ICEV,domestic,gas,115.9,16,1621,1497,6.942,0.216
+Nissan X-Trail,Ultimate,SUV,ICEV,domestic,gas,122.9,16,1637,1497,7.229,0.216
+Nissan X-Trail,ePower,SUV,HEV,import,gas,151.9,17.5,1887,1497,8.318,0.217
+Opel Mokka Electric,Mokka Electric,SUV,BEV,import,electronic,139.9,7.5,1598,,6.206,0.13
+Porsche Taycan,Taycan,Sedan,BEV,import,electronic,432,6.6,2090,,18.232,0.156
+Porsche Taycan,4S,Sedan,BEV,import,electronic,532,6,2250,,22.366,0.17
+Porsche Taycan,Turbo,Sedan,BEV,import,electronic,768,6,2290,,32.055,0.171
+Porsche Taycan,Turbo S,Sedan,BEV,import,electronic,925,6,2295,,38.5,0.171
+Porsche Taycan Cross Turismo,4,Wagons,BEV,import,electronic,491,5.8,2280,,20.693,0.174
+Porsche Taycan Cross Turismo,4S,Wagons,BEV,import,electronic,558,5.8,2280,,23.444,0.174
+Porsche Taycan Cross Turismo,Turbo,Wagons,BEV,import,electronic,775,5.7,2320,,32.358,0.177
+Škoda Fabia,1.0 TSI Ambition,Hatchback,ICEV,import,gas,84.8,19.2,1192,999,5.304,0.176
+Škoda Fabia,1.0 TSI Style,Hatchback,ICEV,import,gas,89.8,19.2,1216,999,5.51,0.177
+Škoda Fabia,1.5 TSI Style,Hatchback,ICEV,import,gas,96.8,17.5,1244,1498,6.056,0.192
+Škoda Octavia,1.0 TSI e-TEC,Sedan,ICEV,import,gas,109.8,20.4,1341,999,6.273,0.17
+Škoda Octavia,1.5 TSI e-TEC,Sedan,ICEV,import,gas,121.8,18.4,1341,1498,7.03,0.186
+Škoda Octavia,RS,Sedan,ICEV,import,gas,151.8,14.6,1520,1984,8.803,0.231
+Škoda Scala,Kinetic TSI,Hatchback,ICEV,import,gas,98.8,16.4,1229,999,6.047,0.203
+Škoda Scala,Elite TSI,Hatchback,ICEV,import,gas,104.8,17,1255,1498,6.417,0.197
+Subaru Solterra,Solterra,SUV,BEV,import,electronic,189.9,6,2030,,8.321,0.163
+Suzuki Ignis,Ignis,Hatchback,ICEV,import,gas,69.5,22.1,865,1197,4.547,0.15
+Suzuki Swift,Swift,Hatchback,ICEV,import,gas,72,22.3,945,1197,4.642,0.15
+Suzuki Swift,Swift Sport,Hatchback,ICEV,import,gas,82,19.5,1020,1373,5.338,0.171
+Tesla Model S,,Sedan,BEV,import,electronic,294.99,5.6,2089,,12.658,0.172
+Tesla Model S,Plaid,Sedan,BEV,import,electronic,344.99,5.2,2183,,14.736,0.183
+Tesla Model X,,SUV,BEV,import,electronic,324.99,5.1,2373,,13.922,0.191
+Tesla Model X,Plaid ,SUV,BEV,import,electronic,345,5.3,2468,,14.73,0.19
+Tesla Model Y,,SUV,BEV,import,electronic,179.99,6.6,1917,,7.886,0.15
+Tesla Model Y,Long Gang,SUV,BEV,import,electronic,212.79,6.2,1979,,9.251,0.158
+Tesla Model Y,Performance,SUV,BEV,import,electronic,238.79,6,1997,,10.328,0.162
+Toyota bZ4X,,SUV,BEV,import,electronic,167,8.2,1900,,7.297,0.132
+Toyota Camry,Luxury ,Sedan,HEV,import,gas,98.5,16.2,1510,1987,6.487,0.221
+Toyota Camry,Honor ,Sedan,HEV,import,gas,108.5,16.2,1510,1987,6.897,0.221
+Toyota Camry,Honor H,Sedan,HEV,import,gas,123,24.6,1600,2487,7.344,0.161
+Toyota Corolla Altis,Classic,Sedan,ICEV,domestic,gas,72.5,15.7,1275,1798,5.183,0.212
+Toyota Corolla Altis,Honor H,Sedan,HEV,domestic,gas,88.5,25.2,1390,1798,5.386,0.153
+Toyota Corolla Altis,Luxury ,Sedan,ICEV,domestic,gas,78,15.6,1280,1798,5.416,0.213
+Toyota Corolla Altis,Luxury +,Sedan,ICEV,domestic,gas,79.5,15.6,1280,1798,5.478,0.213
+Toyota Corolla Altis,Luxury H,Sedan,HEV,domestic,gas,84.5,24.1,1380,1798,5.256,0.158
+Toyota Corolla Altis,GR Sport,Sedan,ICEV,domestic,gas,88.5,14.9,1330,1798,5.904,0.223
+Toyota Corolla Altis,GR Sport H,Sedan,HEV,domestic,gas,93,23.6,1405,1798,5.621,0.161
+Toyota Corolla Sport,Ultimate,Hatchback,ICEV,import,gas,96.9,16.2,1390,1987,6.421,0.209
+Toyota Crown,2.5H,Sedan,HEV,import,gas,157,22.4,1720,2487,8.815,0.176
+Toyota Crown,2.4 Turbo H,Sedan,HEV,import,gas,207,15.6,1950,2393,10.986,0.239
+Toyota RAV4,2.0 Luxury ,SUV,ICEV,import,gas,101,15.1,1610,1987,6.674,0.226
+Toyota RAV4,2.5 H,SUV,ICEV,import,gas,114,22.6,1660,2487,7.043,0.163
+Toyota RAV4,2.0 Adventure 4WD,SUV,ICEV,import,gas,128,13.7,1680,1987,7.911,0.247
+Toyota RAV4,2.5 H 4WD,SUV,ICEV,import,gas,138,20.1,1755,2487,8.132,0.181
+Toyota Vios,Elegance,Sedan,ICEV,domestic,gas,58.9,17.5,1080,1496,4.5,0.189
+Toyota Vios,Classic,Sedan,ICEV,domestic,gas,60.9,17,1095,1496,4.614,0.194
+Toyota Vios,Luxury ,Sedan,ICEV,domestic,gas,67.5,17,1095,1496,4.885,0.194
+Toyota Yaris Cross,Hedonic,SUV,ICEV,domestic,gas,71,17.5,1125,1496,4.997,0.19
+Toyota Yaris Cross,Cool motion,SUV,ICEV,domestic,gas,75,17.5,1130,1496,5.161,0.19
+Toyota Yaris Cross,Trendy,SUV,ICEV,domestic,gas,82,17.5,1140,1496,5.449,0.19
+Toyota Corolla Cross,Luxury ,SUV,ICEV,domestic,gas,85.9,14.5,1325,1798,5.832,0.228
+Toyota Corolla Cross,Luxury H,SUV,HEV,domestic,gas,91.5,21.9,1395,1798,5.622,0.171
+Toyota Corolla Cross,Honor ,SUV,ICEV,domestic,gas,94,14.5,1330,1798,6.165,0.229
+Toyota Corolla Cross,Honor H,SUV,HEV,domestic,gas,97.5,21.9,1400,1798,5.868,0.171
+Toyota Corolla Cross,GR Sport,SUV,ICEV,domestic,gas,94,14.7,1340,1798,6.147,0.226
+Toyota Corolla Cross,GR Sport H,SUV,HEV,domestic,gas,101,22.2,1420,1798,6,0.169
+Volkswagen Golf,230 eTSI,Hatchback,HEV,import,gas,112.8,20.5,1283,999,6.392,0.177
+Volkswagen Golf,280 eTSI,Hatchback,HEV,import,gas,128.8,18.5,1351,1498,7.312,0.194
+Volkswagen Golf,280 eTSI  R-Line ,Hatchback,HEV,import,gas,139.8,18.5,1351,1498,7.763,0.194
+Volkswagen Golf,GTI,Hatchback,HEV,import,gas,175.8,14.2,1451,1984,9.825,0.244
+Volkswagen Tiguan,280 TSI Life,SUV,ICEV,import,gas,122.8,14.6,1541,1498,7.338,0.231
+Volkswagen T-Roc,280 TSI Life,SUV,ICEV,import,gas,119.8,17.3,1327,1498,7.013,0.196
+Volkswagen T-Roc,330 TSI R-Line Performance,SUV,ICEV,import,gas,152.8,12.3,1533,1984,9.086,0.269
+Volvo C40 Recharge,Plus Single Motor,SUV,BEV,import,electronic,201,5.6,1998,,8.799,0.169
+Volvo C40 Recharge,Ultimate Twin Motor,SUV,BEV,import,electronic,232,5.9,2136,,10.055,0.168
+Volvo S60,Plus B4,Sedan,ICEV,import,gas,189,14.8,1677,1969,10.313,0.232
+Volvo S60,Ultimate B5,Sedan,ICEV,import,gas,229.2,13.9,1823,1969,12.046,0.247
+Volvo XC40 Recharge,Plus Single Motor,SUV,BEV,import,electronic,191,5.9,2006,,8.371,0.164
+Volvo XC40 Recharge,Ultimate Twin Motor,SUV,BEV,import,electronic,222,5.5,2145,,9.667,0.176

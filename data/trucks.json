@@ -1,0 +1,68 @@
+{
+    "diesel_low": {
+        "VKT": 33388,
+        "fuel_efficiency": 3.56,
+        "vehicle_cost": 111666.17,
+        "labor_cost": 0.6544233748786822,
+        "fuel_cost": null,
+        "maintenance_and_repair_cost": 0.15794542536115572,
+        "insurance_cost": 0.008230482746658241,
+        "fuel_fee_rate": 0.016172506738544475,
+        "subsidy": 0
+    },
+    "diesel_high": {
+        "VKT": 33388,
+        "fuel_efficiency": 3.26,
+        "vehicle_cost": 123326.25,
+        "labor_cost": 1.0810652552286162,
+        "fuel_cost": null,
+        "maintenance_and_repair_cost": 0.15794542536115572,
+        "insurance_cost": 0.008230482746658241,
+        "fuel_fee_rate": 0.014809655047094097,
+        "subsidy": 0
+    },
+    "electric_low": {
+        "VKT": 33388,
+        "fuel_efficiency": 1.9,
+        "vehicle_cost": 186563.38,
+        "labor_cost": 0.6544233748786822,
+        "fuel_cost": null,
+        "maintenance_and_repair_cost": 0.08796147672552168,
+        "insurance_cost": 0.008230482746658241,
+        "fuel_fee_rate": 0,
+        "subsidy": 0.001684737
+    },
+    "electric_high": {
+        "VKT": 33388,
+        "fuel_efficiency": 1.76,
+        "vehicle_cost": 236706.25,
+        "labor_cost": 1.0810652552286162,
+        "fuel_cost": null,
+        "maintenance_and_repair_cost": 0.08796147672552168,
+        "insurance_cost": 0.008230482746658241,
+        "fuel_fee_rate": 0,
+        "subsidy": 0.01123158
+    },
+    "hydrogen_low": {
+        "VKT": 33388,
+        "fuel_efficiency": 3.32,
+        "vehicle_cost": 189698.75,
+        "labor_cost": 0.6544233748786822,
+        "fuel_cost": null,
+        "maintenance_and_repair_cost": 0.08796147672552168,
+        "insurance_cost": 0.008230482746658241,
+        "fuel_fee_rate": 0,
+        "subsidy": 0
+    },
+    "hydrogen_high": {
+        "VKT": 33388,
+        "fuel_efficiency": 2.48,
+        "vehicle_cost": 227638.5,
+        "labor_cost": 1.0810652552286162,
+        "fuel_cost": null,
+        "maintenance_and_repair_cost": 0.08796147672552168,
+        "insurance_cost": 0.008230482746658241,
+        "fuel_fee_rate": 0,
+        "subsidy": 0
+    }
+}

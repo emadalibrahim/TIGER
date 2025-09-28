@@ -1,0 +1,46 @@
+{
+    "diesel_low": {
+        "VKT": 58793,
+        "fuel_efficiency": 3.17,
+        "vehicle_cost": 150378.75,
+        "labor_cost": 0.29279754780210865,
+        "fuel_cost": null,
+        "maintenance_and_repair_cost": 0.10337078651685394,
+        "insurance_cost": 0.006000321229318337,
+        "fuel_fee_rate": 0.014400799539658985,
+        "subsidy": 0
+    },
+    "diesel_high": {
+        "VKT": 58793,
+        "fuel_efficiency": 3.1,
+        "vehicle_cost": 203894.4,
+        "labor_cost": 0.48062250889270924,
+        "fuel_cost": null,
+        "maintenance_and_repair_cost": 0.10337078651685394,
+        "insurance_cost": 0.006000321229318337,
+        "fuel_fee_rate": 0.014082800811653896,
+        "subsidy": 0
+    },
+    "electric_low": {
+        "VKT": 58793,
+        "fuel_efficiency": 1.73,
+        "vehicle_cost": 339824.0,
+        "labor_cost": 0.29279754780210865,
+        "fuel_cost": null,
+        "maintenance_and_repair_cost": 0.092776886035313,
+        "insurance_cost": 0.006000321229318337,
+        "fuel_fee_rate": 0,
+        "subsidy": 0
+    },
+    "electric_high": {
+        "VKT": 58793,
+        "fuel_efficiency": 1.2,
+        "vehicle_cost": 405992.5,
+        "labor_cost": 0.48062250889270924,
+        "fuel_cost": null,
+        "maintenance_and_repair_cost": 0.092776886035313,
+        "insurance_cost": 0.006000321229318337,
+        "fuel_fee_rate": 0,
+        "subsidy": 0
+    }
+}
