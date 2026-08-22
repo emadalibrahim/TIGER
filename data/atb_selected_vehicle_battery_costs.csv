@@ -1,0 +1,148 @@
+vehicle,powertrain,atb_vehicle_class,atb_vehicle_detail,raw_atb_scenario,year,battery_cost_2022usd_total,atb_pack_energy_kwh,pack_cost_2022usd_per_kwh,range_mi
+cars,hybrid,Midsize,Gasoline Power Split Hybrid Electric Vehicle,Advanced,2023,768.2444578913419,1.08,711.3374610105017,
+cars,hybrid,Midsize,Gasoline Power Split Hybrid Electric Vehicle,Conservative,2023,768.2444578913419,,711.3374610105017,
+cars,hybrid,Midsize,Gasoline Power Split Hybrid Electric Vehicle,Mid,2023,768.2444578913419,1.08,711.3374610105017,
+cars,hybrid,Midsize,Gasoline Power Split Hybrid Electric Vehicle,Advanced,2025,724.3447745832652,1.08,670.6896060956159,
+cars,hybrid,Midsize,Gasoline Power Split Hybrid Electric Vehicle,Conservative,2025,768.2444578913419,,711.3374610105017,
+cars,hybrid,Midsize,Gasoline Power Split Hybrid Electric Vehicle,Mid,2025,768.2444578913419,1.08,711.3374610105017,
+cars,hybrid,Midsize,Gasoline Power Split Hybrid Electric Vehicle,Advanced,2030,518.5650090766558,0.972,533.5030957578763,
+cars,hybrid,Midsize,Gasoline Power Split Hybrid Electric Vehicle,Conservative,2030,768.2444578913419,,711.3374610105017,
+cars,hybrid,Midsize,Gasoline Power Split Hybrid Electric Vehicle,Mid,2030,729.8322349967748,1.08,675.7705879599766,
+cars,hybrid,Midsize,Gasoline Power Split Hybrid Electric Vehicle,Advanced,2035,483.9940084715454,0.972,497.9362227073513,
+cars,hybrid,Midsize,Gasoline Power Split Hybrid Electric Vehicle,Conservative,2035,768.2444578913419,,711.3374610105017,
+cars,hybrid,Midsize,Gasoline Power Split Hybrid Electric Vehicle,Mid,2035,691.4200121022078,1.08,640.2037149094516,
+cars,hybrid,Midsize,Gasoline Power Split Hybrid Electric Vehicle,Advanced,2040,472.47034160317526,0.972,486.0805983571762,
+cars,hybrid,Midsize,Gasoline Power Split Hybrid Electric Vehicle,Conservative,2040,768.2444578913419,,711.3374610105017,
+cars,hybrid,Midsize,Gasoline Power Split Hybrid Electric Vehicle,Mid,2040,678.6159378040187,1.08,628.3480905592766,
+cars,hybrid,Midsize,Gasoline Power Split Hybrid Electric Vehicle,Advanced,2045,460.94667473480513,0.972,474.2249740070012,
+cars,hybrid,Midsize,Gasoline Power Split Hybrid Electric Vehicle,Conservative,2045,768.2444578913419,,711.3374610105017,
+cars,hybrid,Midsize,Gasoline Power Split Hybrid Electric Vehicle,Mid,2045,665.8118635058297,1.08,616.4924662091015,
+cars,hybrid,Midsize,Gasoline Power Split Hybrid Electric Vehicle,Advanced,2050,449.423007866435,0.972,462.36934965682616,
+cars,hybrid,Midsize,Gasoline Power Split Hybrid Electric Vehicle,Conservative,2050,768.2444578913419,,711.3374610105017,
+cars,hybrid,Midsize,Gasoline Power Split Hybrid Electric Vehicle,Mid,2050,653.0077892076406,1.08,604.6368418589265,
+cars,phev,Midsize,Gasoline Power Split Plug-in Hybrid Electric Vehicle (30-mile electric range),Advanced,2023,2497.441929753508,11.742516,212.68371529180865,30.0
+cars,phev,Midsize,Gasoline Power Split Plug-in Hybrid Electric Vehicle (30-mile electric range),Conservative,2023,2497.441929753508,,212.68371529180865,30.0
+cars,phev,Midsize,Gasoline Power Split Plug-in Hybrid Electric Vehicle (30-mile electric range),Mid,2023,2497.441929753508,11.742516,212.68371529180865,30.0
+cars,phev,Midsize,Gasoline Power Split Plug-in Hybrid Electric Vehicle (30-mile electric range),Advanced,2025,1967.2632107660663,10.922441142857144,179.04496440381848,30.0
+cars,phev,Midsize,Gasoline Power Split Plug-in Hybrid Electric Vehicle (30-mile electric range),Conservative,2025,2497.441929753508,,212.68371529180865,30.0
+cars,phev,Midsize,Gasoline Power Split Plug-in Hybrid Electric Vehicle (30-mile electric range),Mid,2025,2172.0746534507352,11.2580928,192.93451315756923,30.0
+cars,phev,Midsize,Gasoline Power Split Plug-in Hybrid Electric Vehicle (30-mile electric range),Advanced,2030,962.1959854568246,8.444930399999999,113.93770462061175,30.0
+cars,phev,Midsize,Gasoline Power Split Plug-in Hybrid Electric Vehicle (30-mile electric range),Conservative,2030,2497.441929753508,,212.68371529180865,30.0
+cars,phev,Midsize,Gasoline Power Split Plug-in Hybrid Electric Vehicle (30-mile electric range),Mid,2030,1780.5531842937137,10.4182848,170.90655693091762,30.0
+cars,phev,Midsize,Gasoline Power Split Plug-in Hybrid Electric Vehicle (30-mile electric range),Advanced,2035,818.8128220451423,7.6998168,106.3418576459043,30.0
+cars,phev,Midsize,Gasoline Power Split Plug-in Hybrid Electric Vehicle (30-mile electric range),Conservative,2035,2497.441929753508,,212.68371529180865,30.0
+cars,phev,Midsize,Gasoline Power Split Plug-in Hybrid Electric Vehicle (30-mile electric range),Mid,2035,1467.4447153825222,9.65952,151.916939494149,30.0
+cars,phev,Midsize,Gasoline Power Split Plug-in Hybrid Electric Vehicle (30-mile electric range),Advanced,2040,742.7195351292831,7.292771999999999,101.84324083205716,30.0
+cars,phev,Midsize,Gasoline Power Split Plug-in Hybrid Electric Vehicle (30-mile electric range),Conservative,2040,2497.441929753508,,212.68371529180865,30.0
+cars,phev,Midsize,Gasoline Power Split Plug-in Hybrid Electric Vehicle (30-mile electric range),Mid,2040,1355.1764442400442,9.1961568,147.36334685376875,30.0
+cars,phev,Midsize,Gasoline Power Split Plug-in Hybrid Electric Vehicle (30-mile electric range),Advanced,2045,666.626248213424,6.8857272,96.81275903777076,30.0
+cars,phev,Midsize,Gasoline Power Split Plug-in Hybrid Electric Vehicle (30-mile electric range),Conservative,2045,2497.441929753508,,212.68371529180865,30.0
+cars,phev,Midsize,Gasoline Power Split Plug-in Hybrid Electric Vehicle (30-mile electric range),Mid,2045,1242.9081730975663,8.732793599999999,142.32652574057934,30.0
+cars,phev,Midsize,Gasoline Power Split Plug-in Hybrid Electric Vehicle (30-mile electric range),Advanced,2050,590.5329612975648,6.478682399999999,91.1501636964894,30.0
+cars,phev,Midsize,Gasoline Power Split Plug-in Hybrid Electric Vehicle (30-mile electric range),Conservative,2050,2497.441929753508,,212.68371529180865,30.0
+cars,phev,Midsize,Gasoline Power Split Plug-in Hybrid Electric Vehicle (30-mile electric range),Mid,2050,1130.6399019550886,8.2694304,136.7252455447341,30.0
+cars,electric,Midsize,Battery Electric Vehicle (300-mile range),Advanced,2023,10290.322062206778,77.41314504,132.92732205738037,300.0
+cars,electric,Midsize,Battery Electric Vehicle (300-mile range),Conservative,2023,10290.322062206778,,132.92732205738037,300.0
+cars,electric,Midsize,Battery Electric Vehicle (300-mile range),Mid,2023,10290.322062206778,77.41314504,132.92732205738037,300.0
+cars,electric,Midsize,Battery Electric Vehicle (300-mile range),Advanced,2025,7819.658472998395,69.66239945142857,111.90310275238654,300.0
+cars,electric,Midsize,Battery Electric Vehicle (300-mile range),Conservative,2025,8996.024243312753,,120.58407072348078,300.0
+cars,electric,Midsize,Battery Electric Vehicle (300-mile range),Mid,2025,8534.74712825198,70.77839616,120.58407072348078,300.0
+cars,electric,Midsize,Battery Electric Vehicle (300-mile range),Advanced,2030,4558.277782747214,64.01080728,71.21106538788233,300.0
+cars,electric,Midsize,Battery Electric Vehicle (300-mile range),Conservative,2030,7387.909197776367,,104.44289590222743,300.0
+cars,electric,Midsize,Battery Electric Vehicle (300-mile range),Mid,2030,7387.909197776367,70.7363496,104.44289590222743,300.0
+cars,electric,Midsize,Battery Electric Vehicle (300-mile range),Advanced,2035,3910.871299677423,58.84224912,66.46366102869018,300.0
+cars,electric,Midsize,Battery Electric Vehicle (300-mile range),Conservative,2035,6295.895052729237,,94.94808718384311,300.0
+cars,electric,Midsize,Battery Electric Vehicle (300-mile range),Mid,2035,6295.895052729237,66.308814,94.94808718384311,300.0
+cars,electric,Midsize,Battery Electric Vehicle (300-mile range),Advanced,2040,3512.700955661194,55.12199904,63.72593550375697,300.0
+cars,electric,Midsize,Battery Electric Vehicle (300-mile range),Conservative,2040,5792.043367689991,,92.12953962728278,300.0
+cars,electric,Midsize,Battery Electric Vehicle (300-mile range),Mid,2040,5792.043367689991,62.86847184,92.12953962728278,300.0
+cars,electric,Midsize,Battery Electric Vehicle (300-mile range),Advanced,2045,3114.5306116449647,51.40174896,60.59191904284505,300.0
+cars,electric,Midsize,Battery Electric Vehicle (300-mile range),Conservative,2045,5388.956161716546,,88.98465610689476,300.0
+cars,electric,Midsize,Battery Electric Vehicle (300-mile range),Mid,2045,5288.191682650746,59.42812968,88.98465610689476,300.0
+cars,electric,Midsize,Battery Electric Vehicle (300-mile range),Advanced,2050,2716.360267628735,47.68149888,56.96885231030588,300.0
+cars,electric,Midsize,Battery Electric Vehicle (300-mile range),Conservative,2050,5224.969490768184,,85.45327846545882,300.0
+cars,electric,Midsize,Battery Electric Vehicle (300-mile range),Mid,2050,4784.3399976115,55.98778752,85.45327846545882,300.0
+trucks_light,electric,Pickup,Battery Electric Vehicle (300-mile range),Advanced,2023,15926.652807690123,119.8147421,132.92732203519154,300.0
+trucks_light,electric,Pickup,Battery Electric Vehicle (300-mile range),Conservative,2023,15926.652807690123,,132.92732203519154,300.0
+trucks_light,electric,Pickup,Battery Electric Vehicle (300-mile range),Mid,2023,15926.652807690123,119.8147421,132.92732203519154,300.0
+trucks_light,electric,Pickup,Battery Electric Vehicle (300-mile range),Advanced,2025,12789.796644191616,113.9569708,111.90310276179062,300.0
+trucks_light,electric,Pickup,Battery Electric Vehicle (300-mile range),Conservative,2025,13950.632857666587,,120.58407072348076,300.0
+trucks_light,electric,Pickup,Battery Electric Vehicle (300-mile range),Mid,2025,13950.632857666587,115.6921704,120.58407072348076,300.0
+trucks_light,electric,Pickup,Battery Electric Vehicle (300-mile range),Advanced,2030,7260.910381111817,101.963232,71.21106538788233,300.0
+trucks_light,electric,Pickup,Battery Electric Vehicle (300-mile range),Conservative,2030,11693.486784321423,,104.44289590222743,300.0
+trucks_light,electric,Pickup,Battery Electric Vehicle (300-mile range),Mid,2030,11693.486784321423,111.960576,104.44289590222743,300.0
+trucks_light,electric,Pickup,Battery Electric Vehicle (300-mile range),Advanced,2035,6324.133498773886,95.1517476,66.4636610286902,300.0
+trucks_light,electric,Pickup,Battery Electric Vehicle (300-mile range),Conservative,2035,9717.063200864251,,94.94808718384311,300.0
+trucks_light,electric,Pickup,Battery Electric Vehicle (300-mile range),Mid,2035,9717.063200864251,102.3408,94.94808718384311,300.0
+trucks_light,electric,Pickup,Battery Electric Vehicle (300-mile range),Advanced,2040,5670.093732308262,88.95730032,63.73949874728237,300.0
+trucks_light,electric,Pickup,Battery Electric Vehicle (300-mile range),Conservative,2040,8976.452898752937,,92.09985415009382,300.0
+trucks_light,electric,Pickup,Battery Electric Vehicle (300-mile range),Mid,2040,8976.452898752937,97.4643552,92.09985415009382,300.0
+trucks_light,electric,Pickup,Battery Electric Vehicle (300-mile range),Advanced,2045,5016.053965842637,82.76285304,60.60755256248036,300.0
+trucks_light,electric,Pickup,Battery Electric Vehicle (300-mile range),Conservative,2045,8340.655740867633,,88.95159811967876,300.0
+trucks_light,electric,Pickup,Battery Electric Vehicle (300-mile range),Mid,2045,8235.842596641625,92.5879104,88.95159811967876,300.0
+trucks_light,electric,Pickup,Battery Electric Vehicle (300-mile range),Advanced,2050,4362.014199377013,76.56840575999999,56.96885231030588,300.0
+trucks_light,electric,Pickup,Battery Electric Vehicle (300-mile range),Conservative,2050,8086.8484491721,,85.45327846545882,300.0
+trucks_light,electric,Pickup,Battery Electric Vehicle (300-mile range),Mid,2050,7495.232294530312,87.7114656,85.45327846545882,300.0
+bus,electric,Class 8 Transit Heavy,Battery Electric Vehicle,Advanced,2023,163346.07811868616,491.535,332.3183051434509,200.0
+bus,electric,Class 8 Transit Heavy,Battery Electric Vehicle,Conservative,2023,163346.07811868616,,332.3183051434509,
+bus,electric,Class 8 Transit Heavy,Battery Electric Vehicle,Mid,2023,163346.07811868616,491.535,332.3183051434509,200.0
+bus,electric,Class 8 Transit Heavy,Battery Electric Vehicle,Advanced,2025,110268.5361650843,470.5046785714286,233.3010142231574,200.0
+bus,electric,Class 8 Transit Heavy,Battery Electric Vehicle,Conservative,2025,140997.4888181332,,286.85137135327733,
+bus,electric,Class 8 Transit Heavy,Battery Electric Vehicle,Mid,2025,126716.95757085957,476.64,265.8546441147608,200.0
+bus,electric,Class 8 Transit Heavy,Battery Electric Vehicle,Advanced,2030,51708.57992393474,435.67875,118.68510897980391,200.0
+bus,electric,Class 8 Transit Heavy,Battery Electric Vehicle,Conservative,2030,111181.67190298851,,226.192787701768,
+bus,electric,Class 8 Transit Heavy,Battery Electric Vehicle,Mid,2030,87777.89248398085,462.2415,189.89617436768623,200.0
+bus,electric,Class 8 Transit Heavy,Battery Electric Vehicle,Advanced,2035,43657.95178808521,437.913,99.69549154303527,200.0
+bus,electric,Class 8 Transit Heavy,Battery Electric Vehicle,Conservative,2035,96106.89802386108,,195.52401766682144,
+bus,electric,Class 8 Transit Heavy,Battery Electric Vehicle,Mid,2035,71297.14532372322,469.316625,151.916939494149,200.0
+bus,electric,Class 8 Transit Heavy,Battery Electric Vehicle,Advanced,2040,37811.78858095864,438.65775,86.19883857280223,200.0
+bus,electric,Class 8 Transit Heavy,Battery Electric Vehicle,Conservative,2040,87448.85808271694,,177.909727858071,
+bus,electric,Class 8 Transit Heavy,Battery Electric Vehicle,Mid,2040,60899.64496401358,469.316625,129.76238581791895,200.0
+bus,electric,Class 8 Transit Heavy,Battery Electric Vehicle,Advanced,2045,31965.625373832067,439.4025,72.74793696856997,200.0
+bus,electric,Class 8 Transit Heavy,Battery Electric Vehicle,Conservative,2045,81767.84895795395,,166.35203791785722,
+bus,electric,Class 8 Transit Heavy,Battery Electric Vehicle,Mid,2045,50502.14460430395,469.316625,107.60783214168887,200.0
+bus,electric,Class 8 Transit Heavy,Battery Electric Vehicle,Advanced,2050,26119.462166705496,440.14725,59.34255448990195,200.0
+bus,electric,Class 8 Transit Heavy,Battery Electric Vehicle,Conservative,2050,77497.61112452061,,157.66448192808366,
+bus,electric,Class 8 Transit Heavy,Battery Electric Vehicle,Mid,2050,40104.6442445943,469.316625,85.45327846545881,200.0
+trucks,electric,Class 8 Regional DayCab,Battery Electric Vehicle,Advanced,2023,239244.2558303989,719.925,332.31830514345097,250.0
+trucks,electric,Class 8 Regional DayCab,Battery Electric Vehicle,Conservative,2023,239244.2558303989,,332.31830514345097,
+trucks,electric,Class 8 Regional DayCab,Battery Electric Vehicle,Mid,2023,239244.2558303989,719.925,332.31830514345097,250.0
+trucks,electric,Class 8 Regional DayCab,Battery Electric Vehicle,Advanced,2025,152496.74677054337,644.7407142857143,233.30101422315735,250.0
+trucks,electric,Class 8 Regional DayCab,Battery Electric Vehicle,Conservative,2025,206511.4735215082,,286.8513713532774,
+trucks,electric,Class 8 Regional DayCab,Battery Electric Vehicle,Mid,2025,178195.72158402126,670.275,265.8546441147608,250.0
+trucks,electric,Class 8 Regional DayCab,Battery Electric Vehicle,Advanced,2030,64495.7729079733,543.41925,118.6851089798039,250.0
+trucks,electric,Class 8 Regional DayCab,Battery Electric Vehicle,Conservative,2030,162841.8426861953,,226.192787701768,
+trucks,electric,Class 8 Regional DayCab,Battery Electric Vehicle,Mid,2030,117265.04165086054,617.521875,189.89617436768623,250.0
+trucks,electric,Class 8 Regional DayCab,Battery Electric Vehicle,Advanced,2035,49498.81155111702,496.5,99.69549154303527,250.0
+trucks,electric,Class 8 Regional DayCab,Battery Electric Vehicle,Conservative,2035,140762.62841878642,,195.5240176668215,
+trucks,electric,Class 8 Regional DayCab,Battery Electric Vehicle,Mid,2035,85005.95903711829,559.5555,151.91693949414898,250.0
+trucks,electric,Class 8 Regional DayCab,Battery Electric Vehicle,Advanced,2040,41909.48483958415,481.149875,87.10276572260182,250.0
+trucks,electric,Class 8 Regional DayCab,Battery Electric Vehicle,Conservative,2040,128081.66082822176,,177.90972785807102,
+trucks,electric,Class 8 Regional DayCab,Battery Electric Vehicle,Mid,2040,71297.53817143393,544.205375,131.01219033610963,250.0
+trucks,electric,Class 8 Regional DayCab,Battery Electric Vehicle,Advanced,2045,34320.15812805128,465.79975,73.68006987563062,250.0
+trucks,electric,Class 8 Regional DayCab,Battery Electric Vehicle,Conservative,2045,119760.99089801336,,166.35203791785725,
+trucks,electric,Class 8 Regional DayCab,Battery Electric Vehicle,Mid,2045,57589.11730574959,528.8552500000001,108.89391247557737,250.0
+trucks,electric,Class 8 Regional DayCab,Battery Electric Vehicle,Advanced,2050,26730.8314165184,450.449625,59.34255448990194,250.0
+trucks,electric,Class 8 Regional DayCab,Battery Electric Vehicle,Conservative,2050,113506.60215207563,,157.6644819280837,
+trucks,electric,Class 8 Regional DayCab,Battery Electric Vehicle,Mid,2050,43880.69644006524,513.505125,85.45327846545882,250.0
+trucks,hydrogen,Class 8 Regional DayCab,Hydrogen Fuel Cell Electric Vehicle,Advanced,2023,11938.574990475092,17.96256,664.6366102869018,250.0
+trucks,hydrogen,Class 8 Regional DayCab,Hydrogen Fuel Cell Electric Vehicle,Conservative,2023,11938.574990475092,,664.6366102869018,250.0
+trucks,hydrogen,Class 8 Regional DayCab,Hydrogen Fuel Cell Electric Vehicle,Mid,2023,11938.574990475092,17.96256,664.6366102869018,250.0
+trucks,hydrogen,Class 8 Regional DayCab,Hydrogen Fuel Cell Electric Vehicle,Advanced,2025,7460.836184798107,17.5824,422.9498970973983,250.0
+trucks,hydrogen,Class 8 Regional DayCab,Hydrogen Fuel Cell Electric Vehicle,Conservative,2025,8057.703079581956,,448.5832241942104,250.0
+trucks,hydrogen,Class 8 Regional DayCab,Hydrogen Fuel Cell Electric Vehicle,Mid,2025,8057.703079581956,17.96256,448.5832241942104,250.0
+trucks,hydrogen,Class 8 Regional DayCab,Hydrogen Fuel Cell Electric Vehicle,Advanced,2030,4050.168214604687,15.048,269.14993451652623,250.0
+trucks,hydrogen,Class 8 Regional DayCab,Hydrogen Fuel Cell Electric Vehicle,Conservative,2030,5670.235500446562,,340.92325038759986,250.0
+trucks,hydrogen,Class 8 Regional DayCab,Hydrogen Fuel Cell Electric Vehicle,Mid,2030,5670.235500446562,16.632,340.92325038759986,250.0
+trucks,hydrogen,Class 8 Regional DayCab,Hydrogen Fuel Cell Electric Vehicle,Advanced,2035,3819.9481266166304,15.2064,251.20660554875775,250.0
+trucks,hydrogen,Class 8 Regional DayCab,Hydrogen Fuel Cell Electric Vehicle,Conservative,2035,5371.802053054636,,322.9799214198314,250.0
+trucks,hydrogen,Class 8 Regional DayCab,Hydrogen Fuel Cell Electric Vehicle,Mid,2035,5371.802053054636,16.632,322.9799214198314,250.0
+trucks,hydrogen,Class 8 Regional DayCab,Hydrogen Fuel Cell Electric Vehicle,Advanced,2040,3677.268516530206,14.98464,245.4025266226086,250.0
+trucks,hydrogen,Class 8 Regional DayCab,Hydrogen Fuel Cell Electric Vehicle,Conservative,2040,5224.006441012922,,317.1138331034456,250.0
+trucks,hydrogen,Class 8 Regional DayCab,Hydrogen Fuel Cell Electric Vehicle,Mid,2040,5224.006441012922,16.4736,317.1138331034456,250.0
+trucks,hydrogen,Class 8 Regional DayCab,Hydrogen Fuel Cell Electric Vehicle,Advanced,2045,3534.588906443781,14.76288,239.42407622657512,250.0
+trucks,hydrogen,Class 8 Regional DayCab,Hydrogen Fuel Cell Electric Vehicle,Conservative,2045,5076.210828971208,,311.1338401595572,250.0
+trucks,hydrogen,Class 8 Regional DayCab,Hydrogen Fuel Cell Electric Vehicle,Mid,2045,5076.210828971208,16.3152,311.1338401595572,250.0
+trucks,hydrogen,Class 8 Regional DayCab,Hydrogen Fuel Cell Electric Vehicle,Advanced,2050,3391.909296357357,14.54112,233.26327658098944,250.0
+trucks,hydrogen,Class 8 Regional DayCab,Hydrogen Fuel Cell Electric Vehicle,Conservative,2050,4928.415216929493,,305.0365924520631,250.0
+trucks,hydrogen,Class 8 Regional DayCab,Hydrogen Fuel Cell Electric Vehicle,Mid,2050,4928.415216929493,16.1568,305.0365924520631,250.0

@@ -1,0 +1,547 @@
+figure,scenario,year,label,cost_ntd_per_tco2
+A,Conservative,2025,Buses,31847.899125256856
+A,Conservative,2026,Buses,29590.01841846631
+A,Conservative,2027,Buses,27623.050120437056
+A,Conservative,2028,Buses,25894.17390299667
+A,Conservative,2029,Buses,24362.62697909401
+A,Conservative,2030,Buses,22996.449310912132
+A,Conservative,2031,Buses,22187.592073691252
+A,Conservative,2032,Buses,21431.580387772625
+A,Conservative,2033,Buses,20723.399194284866
+A,Conservative,2034,Buses,20058.648550274494
+A,Conservative,2035,Buses,19433.452126611257
+A,Conservative,2036,Buses,18851.237195766716
+A,Conservative,2037,Buses,18301.719835007865
+A,Conservative,2038,Buses,17782.2208030247
+A,Conservative,2039,Buses,17290.345792316122
+A,Conservative,2040,Buses,16823.948532252834
+A,Conservative,2041,Buses,16627.448523889834
+A,Conservative,2042,Buses,16435.485676012882
+A,Conservative,2043,Buses,16247.904638432441
+A,Conservative,2044,Buses,16064.557073082608
+A,Conservative,2045,Buses,15885.3012627984
+A,Conservative,2046,Buses,15710.001745996684
+A,Conservative,2047,Buses,15538.528975281572
+A,Conservative,2048,Buses,15370.758998166108
+A,Conservative,2049,Buses,15206.573158256568
+A,Conservative,2050,Buses,15045.857815385514
+A,Conservative,2025,Light Trucks,34619.99756962016
+A,Conservative,2026,Light Trucks,32899.477384362974
+A,Conservative,2027,Light Trucks,31340.70053931944
+A,Conservative,2028,Light Trucks,29921.883122211722
+A,Conservative,2029,Light Trucks,28624.985014005724
+A,Conservative,2030,Light Trucks,27434.93875808711
+A,Conservative,2031,Light Trucks,26710.624665210977
+A,Conservative,2032,Light Trucks,26022.98734372613
+A,Conservative,2033,Light Trucks,25369.30980500369
+A,Conservative,2034,Light Trucks,24747.136956780312
+A,Conservative,2035,Light Trucks,24154.2447897597
+A,Conservative,2036,Light Trucks,23587.465783483192
+A,Conservative,2037,Light Trucks,23046.161618688973
+A,Conservative,2038,Light Trucks,22528.652530529227
+A,Conservative,2039,Light Trucks,22033.403258893133
+A,Conservative,2040,Light Trucks,21559.007836471148
+A,Conservative,2041,Light Trucks,21353.858843883874
+A,Conservative,2042,Light Trucks,21152.57732105343
+A,Conservative,2043,Light Trucks,20955.05492488546
+A,Conservative,2044,Light Trucks,20761.187321669717
+A,Conservative,2045,Light Trucks,20570.874003314275
+A,Conservative,2046,Light Trucks,20384.018113595153
+A,Conservative,2047,Light Trucks,20200.52628379036
+A,Conservative,2048,Light Trucks,20020.308477112118
+A,Conservative,2049,Light Trucks,19843.277841392865
+A,Conservative,2050,Light Trucks,19669.350569518534
+A,Conservative,2025,Cars,20089.060404305288
+A,Conservative,2026,Cars,19572.185137048928
+A,Conservative,2027,Cars,19080.625374738538
+A,Conservative,2028,Cars,18612.565721260602
+A,Conservative,2029,Cars,18166.36030632776
+A,Conservative,2030,Cars,17740.513448525893
+A,Conservative,2031,Cars,17469.770518249024
+A,Conservative,2032,Cars,17206.79511457107
+A,Conservative,2033,Cars,16951.257693036547
+A,Conservative,2034,Cars,16702.84709087193
+A,Conservative,2035,Cars,16461.26926297079
+A,Conservative,2036,Cars,16224.807881318122
+A,Conservative,2037,Cars,15994.676486619366
+A,Conservative,2038,Cars,15770.624258812557
+A,Conservative,2039,Cars,15552.41345645324
+A,Conservative,2040,Cars,15339.818575229041
+A,Conservative,2041,Cars,15250.271179891999
+A,Conservative,2042,Cars,15161.763196806496
+A,Conservative,2043,Cars,15074.276633090372
+A,Conservative,2044,Cars,14987.793908769772
+A,Conservative,2045,Cars,14902.29784500219
+A,Conservative,2046,Cars,14817.771652700372
+A,Conservative,2047,Cars,14734.19892154112
+A,Conservative,2048,Cars,14651.56360934401
+A,Conservative,2049,Cars,14569.850031805492
+A,Conservative,2050,Cars,14489.04285257462
+A,Conservative,2025,Scooters,12246.748405850842
+A,Conservative,2026,Scooters,12074.354195439544
+A,Conservative,2027,Scooters,11906.746106695684
+A,Conservative,2028,Scooters,11743.727555276026
+A,Conservative,2029,Scooters,11585.112577390688
+A,Conservative,2030,Scooters,11430.725122136204
+A,Conservative,2031,Scooters,11332.954058754813
+A,Conservative,2032,Scooters,11236.841352314505
+A,Conservative,2033,Scooters,11142.345164970468
+A,Conservative,2034,Scooters,11049.425054482554
+A,Conservative,2035,Scooters,10958.041916504211
+A,Conservative,2036,Scooters,10868.157929711766
+A,Conservative,2037,Scooters,10779.736503612145
+A,Conservative,2038,Scooters,10692.742228877853
+A,Conservative,2039,Scooters,10607.1408300675
+A,Conservative,2040,Scooters,10522.899120599295
+A,Conservative,2041,Scooters,10484.901724724028
+A,Conservative,2042,Scooters,10447.177753001917
+A,Conservative,2043,Scooters,10409.724264728244
+A,Conservative,2044,Scooters,10372.53836121775
+A,Conservative,2045,Scooters,10335.617185056804
+A,Conservative,2046,Scooters,10298.957919371462
+A,Conservative,2047,Scooters,10262.557787111065
+A,Conservative,2048,Scooters,10226.414050346975
+A,Conservative,2049,Scooters,10190.524009586064
+A,Conservative,2050,Scooters,10154.885003098623
+A,Reference,2025,Buses,30984.939155906544
+A,Reference,2026,Buses,28540.6568191179
+A,Reference,2027,Buses,26391.091057344995
+A,Reference,2028,Buses,24484.669374073623
+A,Reference,2029,Buses,22781.144798088022
+A,Reference,2030,Buses,21248.646911795502
+A,Reference,2031,Buses,20243.02649290612
+A,Reference,2032,Buses,19306.74835989272
+A,Reference,2033,Buses,18432.76150789343
+A,Reference,2034,Buses,17614.938428094658
+A,Reference,2035,Buses,16847.928695832117
+A,Reference,2036,Buses,16040.68356498917
+A,Reference,2037,Buses,15291.794554544222
+A,Reference,2038,Buses,14595.151268497648
+A,Reference,2039,Buses,13945.467621324306
+A,Reference,2040,Buses,13338.147370586792
+A,Reference,2041,Buses,13004.802347743598
+A,Reference,2042,Buses,12684.330776030418
+A,Reference,2043,Buses,12375.999481351062
+A,Reference,2044,Buses,12079.12992586065
+A,Reference,2045,Buses,11793.093211667796
+A,Reference,2046,Buses,11542.143454890487
+A,Reference,2047,Buses,11299.761410840048
+A,Reference,2048,Buses,11065.513939753133
+A,Reference,2049,Buses,10838.996611856357
+A,Reference,2050,Buses,10619.831367390843
+A,Reference,2025,Light Trucks,34619.99756962016
+A,Reference,2026,Light Trucks,32283.757790803877
+A,Reference,2027,Light Trucks,30112.058001716672
+A,Reference,2028,Light Trucks,28087.36906890664
+A,Reference,2029,Light Trucks,26194.556418432097
+A,Reference,2030,Light Trucks,24420.484491037234
+A,Reference,2031,Light Trucks,23451.25685303911
+A,Reference,2032,Light Trucks,22535.32229260017
+A,Reference,2033,Light Trucks,21668.40018331951
+A,Reference,2034,Light Trucks,20846.656383941314
+A,Reference,2035,Light Trucks,20066.646505162636
+A,Reference,2036,Light Trucks,19386.324612365646
+A,Reference,2037,Light Trucks,18740.782361534388
+A,Reference,2038,Light Trucks,18127.416800465537
+A,Reference,2039,Light Trucks,17543.878398102515
+A,Reference,2040,Light Trucks,16988.040936287096
+A,Reference,2041,Light Trucks,16627.615533808552
+A,Reference,2042,Light Trucks,16278.637508555476
+A,Reference,2043,Light Trucks,15940.56974873521
+A,Reference,2044,Light Trucks,15612.908226846166
+A,Reference,2045,Light Trucks,15295.179490957778
+A,Reference,2046,Light Trucks,15001.465395584211
+A,Reference,2047,Light Trucks,14716.623728260422
+A,Reference,2048,Light Trucks,14440.258337042129
+A,Reference,2049,Light Trucks,14171.996308243335
+A,Reference,2050,Light Trucks,13911.486287119194
+A,Reference,2025,Cars,20089.060404305288
+A,Reference,2026,Cars,18188.365471355337
+A,Reference,2027,Cars,16358.80557737764
+A,Reference,2028,Cars,14595.87115098296
+A,Reference,2029,Cars,12895.417604408356
+A,Reference,2030,Cars,11253.629013002395
+A,Reference,2031,Cars,10530.424914357094
+A,Reference,2032,Cars,9841.427280673688
+A,Reference,2033,Cars,9184.252552308417
+A,Reference,2034,Cars,8556.73358572254
+A,Reference,2035,Cars,7956.895636658505
+A,Reference,2036,Cars,7575.526011740005
+A,Reference,2037,Cars,7206.411809590819
+A,Reference,2038,Cars,6848.961934586742
+A,Reference,2039,Cars,6502.622686343872
+A,Reference,2040,Cars,6166.8748485020105
+A,Reference,2041,Cars,5952.388053161698
+A,Reference,2042,Cars,5742.474791709728
+A,Reference,2043,Cars,5536.989193148053
+A,Reference,2044,Cars,5335.791524003216
+A,Reference,2045,Cars,5138.747868890726
+A,Reference,2046,Cars,4981.9527854077205
+A,Reference,2047,Cars,4828.118003554484
+A,Reference,2048,Cars,4677.159736494396
+A,Reference,2049,Cars,4528.9973294265255
+A,Reference,2050,Cars,4383.553114592291
+A,Reference,2025,Scooters,12246.748405850842
+A,Reference,2026,Scooters,12185.43586595618
+A,Reference,2027,Scooters,12126.827241885261
+A,Reference,2028,Scooters,12070.87870463733
+A,Reference,2029,Scooters,12017.549939383585
+A,Reference,2030,Scooters,11966.804049574837
+A,Reference,2031,Scooters,11842.946704487302
+A,Reference,2032,Scooters,11720.550691641707
+A,Reference,2033,Scooters,11599.590300395032
+A,Reference,2034,Scooters,11480.04041972421
+A,Reference,2035,Scooters,11361.876520847187
+A,Reference,2036,Scooters,11245.074640444895
+A,Reference,2037,Scooters,11129.61136446003
+A,Reference,2038,Scooters,11015.463812449743
+A,Reference,2039,Scooters,10902.609622470203
+A,Reference,2040,Scooters,10791.02693647203
+A,Reference,2041,Scooters,10728.740047788953
+A,Reference,2042,Scooters,10666.593603234105
+A,Reference,2043,Scooters,10604.587128333445
+A,Reference,2044,Scooters,10542.720150747802
+A,Reference,2045,Scooters,10480.992200260893
+A,Reference,2046,Scooters,10419.402808767403
+A,Reference,2047,Scooters,10357.951510261126
+A,Reference,2048,Scooters,10296.637840823249
+A,Reference,2049,Scooters,10235.461338610656
+A,Reference,2050,Scooters,10174.421543844328
+A,Optimistic,2025,Buses,29951.505570999132
+A,Optimistic,2026,Buses,25857.809347484224
+A,Optimistic,2027,Buses,22489.706198913704
+A,Optimistic,2028,Buses,19647.41663178599
+A,Optimistic,2029,Buses,17194.625762356205
+A,Optimistic,2030,Buses,15034.412462872166
+A,Optimistic,2031,Buses,14094.713073694478
+A,Optimistic,2032,Buses,13244.072029821567
+A,Optimistic,2033,Buses,12469.55502196481
+A,Optimistic,2034,Buses,11760.560687206393
+A,Optimistic,2035,Buses,11108.312873973306
+A,Optimistic,2036,Buses,10697.66893198599
+A,Optimistic,2037,Buses,10311.522297939582
+A,Optimistic,2038,Buses,9947.638986531807
+A,Optimistic,2039,Buses,9604.044900144352
+A,Optimistic,2040,Buses,9278.988945619136
+A,Optimistic,2041,Buses,9075.702805472354
+A,Optimistic,2042,Buses,8879.348594555238
+A,Optimistic,2043,Buses,8689.537129287713
+A,Optimistic,2044,Buses,8505.906268050723
+A,Optimistic,2045,Buses,8328.118534922154
+A,Optimistic,2046,Buses,8142.9951097837975
+A,Optimistic,2047,Buses,7963.635270801203
+A,Optimistic,2048,Buses,7789.7247553743155
+A,Optimistic,2049,Buses,7620.969756920997
+A,Optimistic,2050,Buses,7457.095201818099
+A,Optimistic,2025,Light Trucks,33937.638520834145
+A,Optimistic,2026,Light Trucks,31286.871252669636
+A,Optimistic,2027,Light Trucks,28738.2094873215
+A,Optimistic,2028,Light Trucks,26268.832638522625
+A,Optimistic,2029,Light Trucks,23857.231617807498
+A,Optimistic,2030,Light Trucks,21482.57789971101
+A,Optimistic,2031,Light Trucks,20588.857748025024
+A,Optimistic,2032,Light Trucks,19756.51203075126
+A,Optimistic,2033,Light Trucks,18978.844555857853
+A,Optimistic,2034,Light Trucks,18250.045171496444
+A,Optimistic,2035,Light Trucks,17565.042065422003
+A,Optimistic,2036,Light Trucks,16755.94624461857
+A,Optimistic,2037,Light Trucks,16000.278796290992
+A,Optimistic,2038,Light Trucks,15292.495522327412
+A,Optimistic,2039,Light Trucks,14627.775826896011
+A,Optimistic,2040,Light Trucks,14001.90750996338
+A,Optimistic,2041,Light Trucks,13549.64377190822
+A,Optimistic,2042,Light Trucks,13112.47681990296
+A,Optimistic,2043,Light Trucks,12689.391324190123
+A,Optimistic,2044,Light Trucks,12279.446990313163
+A,Optimistic,2045,Light Trucks,11881.771079957167
+A,Optimistic,2046,Light Trucks,11472.218176652754
+A,Optimistic,2047,Light Trucks,11074.711414011852
+A,Optimistic,2048,Light Trucks,10688.444189045676
+A,Optimistic,2049,Light Trucks,10312.664497639138
+A,Optimistic,2050,Light Trucks,9946.66965679279
+A,Optimistic,2025,Cars,19437.826934842316
+A,Optimistic,2026,Cars,17854.72053317962
+A,Optimistic,2027,Cars,16182.452595579225
+A,Optimistic,2028,Cars,14401.176250670549
+A,Optimistic,2029,Cars,12486.381604395505
+A,Optimistic,2030,Cars,10407.329330718112
+A,Optimistic,2031,Cars,9957.411595923304
+A,Optimistic,2032,Cars,9509.02582024652
+A,Optimistic,2033,Cars,9060.927311219144
+A,Optimistic,2034,Cars,8611.823545485806
+A,Optimistic,2035,Cars,8160.358973631374
+A,Optimistic,2036,Cars,7782.649181080573
+A,Optimistic,2037,Cars,7419.487113171007
+A,Optimistic,2038,Cars,7069.768045838162
+A,Optimistic,2039,Cars,6732.48361108026
+A,Optimistic,2040,Cars,6406.7109667857985
+A,Optimistic,2041,Cars,6147.167771459306
+A,Optimistic,2042,Cars,5891.782801676078
+A,Optimistic,2043,Cars,5640.284196180192
+A,Optimistic,2044,Cars,5392.411356909731
+A,Optimistic,2045,Cars,5147.913984962069
+A,Optimistic,2046,Cars,4894.606304939888
+A,Optimistic,2047,Cars,4644.767146514827
+A,Optimistic,2048,Cars,4398.147821111531
+A,Optimistic,2049,Cars,4154.508798845682
+A,Optimistic,2050,Cars,3913.6188815532223
+A,Optimistic,2025,Scooters,12246.748405850842
+A,Optimistic,2026,Scooters,12151.770061691072
+A,Optimistic,2027,Scooters,12060.457610861848
+A,Optimistic,2028,Scooters,11972.705722009863
+A,Optimistic,2029,Scooters,11888.41568105316
+A,Optimistic,2030,Scooters,11807.495044578081
+A,Optimistic,2031,Scooters,11661.204858708472
+A,Optimistic,2032,Scooters,11517.231812367314
+A,Optimistic,2033,Scooters,11375.52128519952
+A,Optimistic,2034,Scooters,11236.020360170904
+A,Optimistic,2035,Scooters,11098.677757684864
+A,Optimistic,2036,Scooters,10963.443772733535
+A,Optimistic,2037,Scooters,10830.27021492162
+A,Optimistic,2038,Scooters,10699.110351210906
+A,Optimistic,2039,Scooters,10569.918851242579
+A,Optimistic,2040,Scooters,10442.651735102834
+A,Optimistic,2041,Scooters,10362.104058754481
+A,Optimistic,2042,Scooters,10282.050867865686
+A,Optimistic,2043,Scooters,10202.487622871218
+A,Optimistic,2044,Scooters,10123.409839602919
+A,Optimistic,2045,Scooters,10044.813088447248
+A,Optimistic,2046,Scooters,9966.692993518162
+A,Optimistic,2047,Scooters,9889.045231844948
+A,Optimistic,2048,Scooters,9811.86553257484
+A,Optimistic,2049,Scooters,9735.149676189933
+A,Optimistic,2050,Scooters,9658.893493738187
+B,Conservative,2025,Battery Electric Truck,113421.37488059008
+B,Conservative,2026,Battery Electric Truck,90028.83112801505
+B,Conservative,2027,Battery Electric Truck,74463.85360039366
+B,Conservative,2028,Battery Electric Truck,63360.69523246688
+B,Conservative,2029,Battery Electric Truck,55041.3421584245
+B,Conservative,2030,Battery Electric Truck,48575.47816311906
+B,Conservative,2031,Battery Electric Truck,45103.38377665692
+B,Conservative,2032,Battery Electric Truck,42068.946598620365
+B,Conservative,2033,Battery Electric Truck,39394.32275395269
+B,Conservative,2034,Battery Electric Truck,37019.09603900964
+B,Conservative,2035,Battery Electric Truck,34895.65929623827
+B,Conservative,2036,Battery Electric Truck,33024.03035566252
+B,Conservative,2037,Battery Electric Truck,31331.790225662156
+B,Conservative,2038,Battery Electric Truck,29794.327707812783
+B,Conservative,2039,Battery Electric Truck,28391.336757665078
+B,Conservative,2040,Battery Electric Truck,27105.914569407214
+B,Conservative,2041,Battery Electric Truck,26597.395982237475
+B,Conservative,2042,Battery Electric Truck,26107.60609045908
+B,Conservative,2043,Battery Electric Truck,25635.528938513027
+B,Conservative,2044,Battery Electric Truck,25180.220747683405
+B,Conservative,2045,Battery Electric Truck,24740.803618348575
+B,Conservative,2046,Battery Electric Truck,24316.45988033018
+B,Conservative,2047,Battery Electric Truck,23906.42701484081
+B,Conservative,2048,Battery Electric Truck,23509.993081679586
+B,Conservative,2049,Battery Electric Truck,23126.492593983727
+B,Conservative,2050,Battery Electric Truck,22755.30279025176
+B,Conservative,2025,Blue Hydrogen Truck,460972.8419508977
+B,Conservative,2026,Blue Hydrogen Truck,312214.79648957384
+B,Conservative,2027,Blue Hydrogen Truck,235987.4307876955
+B,Conservative,2028,Blue Hydrogen Truck,189641.81565717302
+B,Conservative,2029,Blue Hydrogen Truck,158486.66703565535
+B,Conservative,2030,Blue Hydrogen Truck,136105.22620494102
+B,Conservative,2031,Blue Hydrogen Truck,119247.63351296488
+B,Conservative,2032,Blue Hydrogen Truck,106094.21884222898
+B,Conservative,2033,Blue Hydrogen Truck,95544.9419811085
+B,Conservative,2034,Blue Hydrogen Truck,86896.10453417836
+B,Conservative,2035,Blue Hydrogen Truck,79676.59849089425
+B,Conservative,2036,Blue Hydrogen Truck,73558.43518015824
+B,Conservative,2037,Blue Hydrogen Truck,68307.97741021302
+B,Conservative,2038,Blue Hydrogen Truck,63752.855433442885
+B,Conservative,2039,Blue Hydrogen Truck,59763.51913948839
+B,Conservative,2040,Blue Hydrogen Truck,56240.71910965933
+B,Conservative,2041,Blue Hydrogen Truck,53133.82910316443
+B,Conservative,2042,Blue Hydrogen Truck,50352.234947882884
+B,Conservative,2043,Blue Hydrogen Truck,47847.38969634956
+B,Conservative,2044,Blue Hydrogen Truck,45579.94877023329
+B,Conservative,2045,Blue Hydrogen Truck,43517.68815858953
+B,Conservative,2046,Blue Hydrogen Truck,41633.9632985625
+B,Conservative,2047,Blue Hydrogen Truck,39906.551606446286
+B,Conservative,2048,Blue Hydrogen Truck,38316.77167322616
+B,Conservative,2049,Blue Hydrogen Truck,36848.80492889736
+B,Conservative,2050,Blue Hydrogen Truck,35489.167481086166
+B,Conservative,2025,Green Hydrogen Truck,32150.42731341268
+B,Conservative,2026,Green Hydrogen Truck,32040.264370389006
+B,Conservative,2027,Green Hydrogen Truck,31930.76955345268
+B,Conservative,2028,Green Hydrogen Truck,31821.936802813223
+B,Conservative,2029,Green Hydrogen Truck,31713.760131741008
+B,Conservative,2030,Green Hydrogen Truck,31606.233625469427
+B,Conservative,2031,Green Hydrogen Truck,31499.114805896515
+B,Conservative,2032,Green Hydrogen Truck,31392.63594691248
+B,Conservative,2033,Green Hydrogen Truck,31286.79133061716
+B,Conservative,2034,Green Hydrogen Truck,31181.575307025592
+B,Conservative,2035,Green Hydrogen Truck,31076.982293062676
+B,Conservative,2036,Green Hydrogen Truck,30972.76677282978
+B,Conservative,2037,Green Hydrogen Truck,30869.164705597963
+B,Conservative,2038,Green Hydrogen Truck,30766.170690728668
+B,Conservative,2039,Green Hydrogen Truck,30663.779390791762
+B,Conservative,2040,Green Hydrogen Truck,30561.985530643527
+B,Conservative,2041,Green Hydrogen Truck,30473.08231391983
+B,Conservative,2042,Green Hydrogen Truck,30384.69482657736
+B,Conservative,2043,Green Hydrogen Truck,30296.818593959844
+B,Conservative,2044,Green Hydrogen Truck,30209.449193026732
+B,Conservative,2045,Green Hydrogen Truck,30122.5822516111
+B,Conservative,2046,Green Hydrogen Truck,30036.213447690294
+B,Conservative,2047,Green Hydrogen Truck,29950.338508669134
+B,Conservative,2048,Green Hydrogen Truck,29864.953210675332
+B,Conservative,2049,Green Hydrogen Truck,29780.05337786695
+B,Conservative,2050,Green Hydrogen Truck,29695.63488175163
+B,Reference,2025,Battery Electric Truck,104076.10518396783
+B,Reference,2026,Battery Electric Truck,83091.39474437686
+B,Reference,2027,Battery Electric Truck,68546.8504530203
+B,Reference,2028,Battery Electric Truck,57859.807020569046
+B,Reference,2029,Battery Electric Truck,49665.33021495115
+B,Reference,2030,Battery Electric Truck,43174.17723199184
+B,Reference,2031,Battery Electric Truck,38638.73503822223
+B,Reference,2032,Battery Electric Truck,34795.64571188221
+B,Reference,2033,Battery Electric Truck,31496.806287815994
+B,Reference,2034,Battery Electric Truck,28633.5372419528
+B,Reference,2035,Battery Electric Truck,26124.28327386134
+B,Reference,2036,Battery Electric Truck,23847.093531947503
+B,Reference,2037,Battery Electric Truck,21849.281556487666
+B,Reference,2038,Battery Electric Truck,20082.389040705926
+B,Reference,2039,Battery Electric Truck,18508.55198637266
+B,Reference,2040,Battery Electric Truck,17097.75549207688
+B,Reference,2041,Battery Electric Truck,16457.506807081838
+B,Reference,2042,Battery Electric Truck,15854.685993569372
+B,Reference,2043,Battery Electric Truck,15286.100146755884
+B,Reference,2044,Battery Electric Truck,14748.909491571623
+B,Reference,2045,Battery Electric Truck,14240.579876759937
+B,Reference,2046,Battery Electric Truck,13790.919430965743
+B,Reference,2047,Battery Electric Truck,13363.89117210118
+B,Reference,2048,Battery Electric Truck,12957.823917701993
+B,Reference,2049,Battery Electric Truck,12571.207061821651
+B,Reference,2050,Battery Electric Truck,12202.671741079086
+B,Reference,2025,Blue Hydrogen Truck,410801.09362939675
+B,Reference,2026,Blue Hydrogen Truck,351318.28958821215
+B,Reference,2027,Blue Hydrogen Truck,305219.03355319926
+B,Reference,2028,Blue Hydrogen Truck,268443.4156385427
+B,Reference,2029,Blue Hydrogen Truck,238422.83209348243
+B,Reference,2030,Blue Hydrogen Truck,213452.8348872347
+B,Reference,2031,Blue Hydrogen Truck,170916.4302225157
+B,Reference,2032,Blue Hydrogen Truck,141624.63006851368
+B,Reference,2033,Blue Hydrogen Truck,120224.78410803445
+B,Reference,2034,Blue Hydrogen Truck,103906.10163956384
+B,Reference,2035,Blue Hydrogen Truck,91050.92788307468
+B,Reference,2036,Blue Hydrogen Truck,79391.08759915087
+B,Reference,2037,Blue Hydrogen Truck,70112.91194206337
+B,Reference,2038,Blue Hydrogen Truck,62554.29049845699
+B,Reference,2039,Blue Hydrogen Truck,56277.72376399423
+B,Reference,2040,Blue Hydrogen Truck,50982.52443561602
+B,Reference,2041,Blue Hydrogen Truck,46466.577383956086
+B,Reference,2042,Blue Hydrogen Truck,42564.674710265135
+B,Reference,2043,Blue Hydrogen Truck,39159.54676342482
+B,Reference,2044,Blue Hydrogen Truck,36161.99810145132
+B,Reference,2045,Blue Hydrogen Truck,33502.98074144042
+B,Reference,2046,Blue Hydrogen Truck,31153.34206451298
+B,Reference,2047,Blue Hydrogen Truck,29039.357039770977
+B,Reference,2048,Blue Hydrogen Truck,27127.26528244347
+B,Reference,2049,Blue Hydrogen Truck,25389.461292059605
+B,Reference,2050,Blue Hydrogen Truck,23803.152966600574
+B,Reference,2025,Green Hydrogen Truck,29335.149100655035
+B,Reference,2026,Green Hydrogen Truck,29314.28732865465
+B,Reference,2027,Green Hydrogen Truck,29292.743556072062
+B,Reference,2028,Green Hydrogen Truck,29270.484595229973
+B,Reference,2029,Green Hydrogen Truck,29247.475069646796
+B,Reference,2030,Green Hydrogen Truck,29223.67723056574
+B,Reference,2031,Green Hydrogen Truck,28869.292962428848
+B,Reference,2032,Green Hydrogen Truck,28513.562082327142
+B,Reference,2033,Green Hydrogen Truck,28156.476891563372
+B,Reference,2034,Green Hydrogen Truck,27798.029632642883
+B,Reference,2035,Green Hydrogen Truck,27438.21248871105
+B,Reference,2036,Green Hydrogen Truck,27022.22653356372
+B,Reference,2037,Green Hydrogen Truck,26608.805189346393
+B,Reference,2038,Green Hydrogen Truck,26197.924737074543
+B,Reference,2039,Green Hydrogen Truck,25789.5617493417
+B,Reference,2040,Green Hydrogen Truck,25383.693085852865
+B,Reference,2041,Green Hydrogen Truck,24988.73376329289
+B,Reference,2042,Green Hydrogen Truck,24596.316950215092
+B,Reference,2043,Green Hydrogen Truck,24206.41811437203
+B,Reference,2044,Green Hydrogen Truck,23819.013038104342
+B,Reference,2045,Green Hydrogen Truck,23434.07781331429
+B,Reference,2046,Green Hydrogen Truck,23061.88666147576
+B,Reference,2047,Green Hydrogen Truck,22691.78486733727
+B,Reference,2048,Green Hydrogen Truck,22323.75480915959
+B,Reference,2049,Green Hydrogen Truck,21957.77906279693
+B,Reference,2050,Green Hydrogen Truck,21593.840398934983
+B,Optimistic,2025,Battery Electric Truck,92884.72214475495
+B,Optimistic,2026,Battery Electric Truck,62031.29734619742
+B,Optimistic,2027,Battery Electric Truck,44238.017094797666
+B,Optimistic,2028,Battery Electric Truck,32460.603521195197
+B,Optimistic,2029,Battery Electric Truck,23918.678206590397
+B,Optimistic,2030,Battery Electric Truck,17287.560697912002
+B,Optimistic,2031,Battery Electric Truck,15159.944611360846
+B,Optimistic,2032,Battery Electric Truck,13314.24066701793
+B,Optimistic,2033,Battery Electric Truck,11690.887658484693
+B,Optimistic,2034,Battery Electric Truck,10245.401324301725
+B,Optimistic,2035,Battery Electric Truck,8943.82949114974
+B,Optimistic,2036,Battery Electric Truck,8067.956379184815
+B,Optimistic,2037,Battery Electric Truck,7271.838687984244
+B,Optimistic,2038,Battery Electric Truck,6544.021810946045
+B,Optimistic,2039,Battery Electric Truck,5875.107633543479
+B,Optimistic,2040,Battery Electric Truck,5257.311335810444
+B,Optimistic,2041,Battery Electric Truck,4910.899427184295
+B,Optimistic,2042,Battery Electric Truck,4579.45809784556
+B,Optimistic,2043,Battery Electric Truck,4261.715302470999
+B,Optimistic,2044,Battery Electric Truck,3956.524955861965
+B,Optimistic,2045,Battery Electric Truck,3662.8511263250757
+B,Optimistic,2046,Battery Electric Truck,3370.1926549927693
+B,Optimistic,2047,Battery Electric Truck,3088.1343336899986
+B,Optimistic,2048,Battery Electric Truck,2815.8173156974694
+B,Optimistic,2049,Battery Electric Truck,2552.4588475041032
+B,Optimistic,2050,Battery Electric Truck,2297.3434437777473
+B,Optimistic,2025,Blue Hydrogen Truck,397271.4834761312
+B,Optimistic,2026,Blue Hydrogen Truck,206439.62671957325
+B,Optimistic,2027,Blue Hydrogen Truck,131842.64119293517
+B,Optimistic,2028,Blue Hydrogen Truck,91766.8498771761
+B,Optimistic,2029,Blue Hydrogen Truck,66520.38102883512
+B,Optimistic,2030,Blue Hydrogen Truck,48969.730082416
+B,Optimistic,2031,Blue Hydrogen Truck,43094.19720836074
+B,Optimistic,2032,Blue Hydrogen Truck,38172.42392079706
+B,Optimistic,2033,Blue Hydrogen Truck,33986.26185270311
+B,Optimistic,2034,Blue Hydrogen Truck,30379.13888435961
+B,Optimistic,2035,Blue Hydrogen Truck,27235.74339715903
+B,Optimistic,2036,Blue Hydrogen Truck,24875.53783604398
+B,Optimistic,2037,Blue Hydrogen Truck,22763.634878042547
+B,Optimistic,2038,Blue Hydrogen Truck,20862.384986615103
+B,Optimistic,2039,Blue Hydrogen Truck,19141.367298543988
+B,Optimistic,2040,Blue Hydrogen Truck,17575.73338137801
+B,Optimistic,2041,Blue Hydrogen Truck,16194.532576001282
+B,Optimistic,2042,Blue Hydrogen Truck,14926.283140107167
+B,Optimistic,2043,Blue Hydrogen Truck,13757.465877734181
+B,Optimistic,2044,Blue Hydrogen Truck,12676.628275883812
+B,Optimistic,2045,Blue Hydrogen Truck,11674.003736956794
+B,Optimistic,2046,Blue Hydrogen Truck,10750.079486326575
+B,Optimistic,2047,Blue Hydrogen Truck,9887.543937576706
+B,Optimistic,2048,Blue Hydrogen Truck,9080.3168665551
+B,Optimistic,2049,Blue Hydrogen Truck,8323.089355298167
+B,Optimistic,2050,Blue Hydrogen Truck,7611.204968424435
+B,Optimistic,2025,Green Hydrogen Truck,28575.96454030217
+B,Optimistic,2026,Green Hydrogen Truck,26849.526755527928
+B,Optimistic,2027,Green Hydrogen Truck,25050.50972763082
+B,Optimistic,2028,Green Hydrogen Truck,23168.958999075574
+B,Optimistic,2029,Green Hydrogen Truck,21193.20919173036
+B,Optimistic,2030,Green Hydrogen Truck,19109.495663633264
+B,Optimistic,2031,Green Hydrogen Truck,18556.079892199778
+B,Optimistic,2032,Green Hydrogen Truck,18001.689563468437
+B,Optimistic,2033,Green Hydrogen Truck,17446.07469899797
+B,Optimistic,2034,Green Hydrogen Truck,16888.968744119862
+B,Optimistic,2035,Green Hydrogen Truck,16330.086904583037
+B,Optimistic,2036,Green Hydrogen Truck,15907.62436061896
+B,Optimistic,2037,Green Hydrogen Truck,15486.81818861845
+B,Optimistic,2038,Green Hydrogen Truck,15067.628588292917
+B,Optimistic,2039,Green Hydrogen Truck,14650.015237836544
+B,Optimistic,2040,Green Hydrogen Truck,14233.93725209368
+B,Optimistic,2041,Green Hydrogen Truck,13844.909241204343
+B,Optimistic,2042,Green Hydrogen Truck,13457.53564073525
+B,Optimistic,2043,Green Hydrogen Truck,13071.786169449004
+B,Optimistic,2044,Green Hydrogen Truck,12687.630278730056
+B,Optimistic,2045,Green Hydrogen Truck,12305.03712706155
+B,Optimistic,2046,Green Hydrogen Truck,11930.136088369227
+B,Optimistic,2047,Green Hydrogen Truck,11556.694463085265
+B,Optimistic,2048,Green Hydrogen Truck,11184.683570629375
+B,Optimistic,2049,Green Hydrogen Truck,10814.0744393102
+B,Optimistic,2050,Green Hydrogen Truck,10444.837782395312

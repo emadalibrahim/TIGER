@@ -1,0 +1,256 @@
+scenario,vehicle,powertrain,year,purchase_cost_factor,energy_use_factor,source
+ATB Conservative,cars,gasoline,2023,0.9804492920590808,1.0444613339129083,NREL Transportation ATB 2024
+ATB Conservative,cars,gasoline,2025,1.0,1.0,NREL Transportation ATB 2024
+ATB Conservative,cars,gasoline,2030,1.024356470742477,0.9640181825646512,NREL Transportation ATB 2024
+ATB Conservative,cars,gasoline,2035,1.0348068627317035,0.9770445000931184,NREL Transportation ATB 2024
+ATB Conservative,cars,gasoline,2040,1.0472665046901148,0.9733942940129464,NREL Transportation ATB 2024
+ATB Conservative,cars,gasoline,2045,1.057464036401022,0.97742599399319,NREL Transportation ATB 2024
+ATB Conservative,cars,gasoline,2050,1.066976547179025,0.979060289579176,NREL Transportation ATB 2024
+ATB Conservative,cars,hybrid,2023,0.993696527473204,1.029345389236426,NREL Transportation ATB 2024
+ATB Conservative,cars,hybrid,2025,1.0,1.0,NREL Transportation ATB 2024
+ATB Conservative,cars,hybrid,2030,1.0087901886608015,0.973704248803487,NREL Transportation ATB 2024
+ATB Conservative,cars,hybrid,2035,1.0137027884072487,0.9922630373687664,NREL Transportation ATB 2024
+ATB Conservative,cars,hybrid,2040,1.0209534825220954,0.994518927173072,NREL Transportation ATB 2024
+ATB Conservative,cars,hybrid,2045,1.027115584475575,1.0010908064420845,NREL Transportation ATB 2024
+ATB Conservative,cars,hybrid,2050,1.0326444248613065,1.0051564941238895,NREL Transportation ATB 2024
+ATB Conservative,cars,phev,2023,1.0126184649944128,1.0311282105651114,NREL Transportation ATB 2024
+ATB Conservative,cars,phev,2025,1.0,1.0,NREL Transportation ATB 2024
+ATB Conservative,cars,phev,2030,0.983252877948117,0.9805367737440378,NREL Transportation ATB 2024
+ATB Conservative,cars,phev,2035,0.9689101341390478,0.9792955945345664,NREL Transportation ATB 2024
+ATB Conservative,cars,phev,2040,0.964448825008087,0.9755935058107716,NREL Transportation ATB 2024
+ATB Conservative,cars,phev,2045,0.9653530536058186,0.9775747580296186,NREL Transportation ATB 2024
+ATB Conservative,cars,phev,2050,0.9678441486355228,0.9780384358512147,NREL Transportation ATB 2024
+ATB Conservative,cars,electric,2023,1.0623171928694517,1.017827751485945,NREL Transportation ATB 2024
+ATB Conservative,cars,electric,2025,1.0,1.0,NREL Transportation ATB 2024
+ATB Conservative,cars,electric,2030,0.8938111937814676,0.9889270030192624,NREL Transportation ATB 2024
+ATB Conservative,cars,electric,2035,0.8666589398744762,0.9875965796620368,NREL Transportation ATB 2024
+ATB Conservative,cars,electric,2040,0.851342920989463,0.9856383612701566,NREL Transportation ATB 2024
+ATB Conservative,cars,electric,2045,0.8435664920849876,0.9849477790975129,NREL Transportation ATB 2024
+ATB Conservative,cars,electric,2050,0.838288224298769,0.9843023206002198,NREL Transportation ATB 2024
+ATB Conservative,trucks_light,gasoline,2023,0.9808765926832204,1.0509219925463575,NREL Transportation ATB 2024
+ATB Conservative,trucks_light,gasoline,2025,1.0,1.0,NREL Transportation ATB 2024
+ATB Conservative,trucks_light,gasoline,2030,1.0248253970372707,0.942828670564187,NREL Transportation ATB 2024
+ATB Conservative,trucks_light,gasoline,2035,1.035845395007631,0.9257913326805064,NREL Transportation ATB 2024
+ATB Conservative,trucks_light,gasoline,2040,1.0421296419794523,0.9123914142246408,NREL Transportation ATB 2024
+ATB Conservative,trucks_light,gasoline,2045,1.0453173064539212,0.9110803186107838,NREL Transportation ATB 2024
+ATB Conservative,trucks_light,gasoline,2050,1.0479170428054798,0.9110646828309426,NREL Transportation ATB 2024
+ATB Conservative,trucks_light,electric,2023,1.054159518557508,1.0211801422419169,NREL Transportation ATB 2024
+ATB Conservative,trucks_light,electric,2025,1.0,1.0,NREL Transportation ATB 2024
+ATB Conservative,trucks_light,electric,2030,0.913369651456551,0.989454291890765,NREL Transportation ATB 2024
+ATB Conservative,trucks_light,electric,2035,0.8902123343898853,0.9892016643599646,NREL Transportation ATB 2024
+ATB Conservative,trucks_light,electric,2040,0.8750349915810312,0.9887484174685192,NREL Transportation ATB 2024
+ATB Conservative,trucks_light,electric,2045,0.866332412965455,0.988581769483266,NREL Transportation ATB 2024
+ATB Conservative,trucks_light,electric,2050,0.8602714876398642,0.988475344785174,NREL Transportation ATB 2024
+ATB Conservative,bus,diesel,2023,0.9992357999411045,1.0606497770244807,NREL Transportation ATB 2024
+ATB Conservative,bus,diesel,2025,1.0,1.0,NREL Transportation ATB 2024
+ATB Conservative,bus,diesel,2030,1.00038309965164,0.9288925917038616,NREL Transportation ATB 2024
+ATB Conservative,bus,diesel,2035,1.0003873647063255,0.8999117927121727,NREL Transportation ATB 2024
+ATB Conservative,bus,diesel,2040,1.0003873647063255,0.8981876054647334,NREL Transportation ATB 2024
+ATB Conservative,bus,diesel,2045,1.0003873647063255,0.8988907379325285,NREL Transportation ATB 2024
+ATB Conservative,bus,diesel,2050,1.0003873647063255,0.8970809671392299,NREL Transportation ATB 2024
+ATB Conservative,bus,electric,2023,1.0688109613889432,1.0164542853763876,NREL Transportation ATB 2024
+ATB Conservative,bus,electric,2025,1.0,1.0,NREL Transportation ATB 2024
+ATB Conservative,bus,electric,2030,0.9083555822848032,0.9656916384723546,NREL Transportation ATB 2024
+ATB Conservative,bus,electric,2035,0.8625052009591914,0.955989558441046,NREL Transportation ATB 2024
+ATB Conservative,bus,electric,2040,0.8364347825471085,0.9555408029633412,NREL Transportation ATB 2024
+ATB Conservative,bus,electric,2045,0.8193772873115256,0.9545521228224432,NREL Transportation ATB 2024
+ATB Conservative,bus,electric,2050,0.8062865794149222,0.9527205292364028,NREL Transportation ATB 2024
+ATB Conservative,trucks,diesel,2023,0.9983587180690529,1.060649777024481,NREL Transportation ATB 2024
+ATB Conservative,trucks,diesel,2025,1.0,1.0,NREL Transportation ATB 2024
+ATB Conservative,trucks,diesel,2030,1.004654384804965,0.9208009798548312,NREL Transportation ATB 2024
+ATB Conservative,trucks,diesel,2035,1.0061986779844896,0.9002823611096494,NREL Transportation ATB 2024
+ATB Conservative,trucks,diesel,2040,1.0062365989375588,0.8992275198814808,NREL Transportation ATB 2024
+ATB Conservative,trucks,diesel,2045,1.0061484990295777,0.8988907379325288,NREL Transportation ATB 2024
+ATB Conservative,trucks,diesel,2050,1.006116886287983,0.89708096713923,NREL Transportation ATB 2024
+ATB Conservative,trucks,electric,2023,1.1000797622402538,1.0164542853763874,NREL Transportation ATB 2024
+ATB Conservative,trucks,electric,2025,1.0,1.0,NREL Transportation ATB 2024
+ATB Conservative,trucks,electric,2030,0.8682158345121165,0.9656916384723546,NREL Transportation ATB 2024
+ATB Conservative,trucks,electric,2035,0.8021343704553262,0.955989558441046,NREL Transportation ATB 2024
+ATB Conservative,trucks,electric,2040,0.7642332830106598,0.9555408029633408,NREL Transportation ATB 2024
+ATB Conservative,trucks,electric,2045,0.7393908877055773,0.9545521228224432,NREL Transportation ATB 2024
+ATB Conservative,trucks,electric,2050,0.7203398018402064,0.9527205292364028,NREL Transportation ATB 2024
+ATB Conservative,trucks,hydrogen,2023,1.175928354629595,1.0,NREL Transportation ATB 2024
+ATB Conservative,trucks,hydrogen,2025,1.0,1.0,NREL Transportation ATB 2024
+ATB Conservative,trucks,hydrogen,2030,0.8690073818713231,1.0001218029023689,NREL Transportation ATB 2024
+ATB Conservative,trucks,hydrogen,2035,0.8043953985086373,1.000117864238119,NREL Transportation ATB 2024
+ATB Conservative,trucks,hydrogen,2040,0.7780504865040406,0.9999330632331662,NREL Transportation ATB 2024
+ATB Conservative,trucks,hydrogen,2045,0.7517055744994444,0.9997252788581266,NREL Transportation ATB 2024
+ATB Conservative,trucks,hydrogen,2050,0.7253606624948478,0.9995198287801632,NREL Transportation ATB 2024
+ATB Conservative,scooters,gasoline,2025,1.0,1.0,DEA scooter cost; ICCT/DEA scooter efficiency
+ATB Conservative,scooters,gasoline,2030,1.0,0.934,DEA scooter cost; ICCT/DEA scooter efficiency
+ATB Conservative,scooters,gasoline,2040,1.0,0.894,DEA scooter cost; ICCT/DEA scooter efficiency
+ATB Conservative,scooters,gasoline,2050,1.0,0.854,DEA scooter cost; ICCT/DEA scooter efficiency
+ATB Conservative,scooters,electric,2025,1.0,1.0,DEA scooter cost; ICCT/DEA scooter efficiency
+ATB Conservative,scooters,electric,2030,0.9785407725,0.97,DEA scooter cost; ICCT/DEA scooter efficiency
+ATB Conservative,scooters,electric,2040,0.9356223176,0.97,DEA scooter cost; ICCT/DEA scooter efficiency
+ATB Conservative,scooters,electric,2050,0.8927038627,0.97,DEA scooter cost; ICCT/DEA scooter efficiency
+ATB Baseline,cars,gasoline,2023,0.9804492920590808,1.0444613339129083,NREL Transportation ATB 2024 (raw scenario: Conservative; manuscript alias: Baseline)
+ATB Baseline,cars,gasoline,2025,1.0,1.0,NREL Transportation ATB 2024 (raw scenario: Conservative; manuscript alias: Baseline)
+ATB Baseline,cars,gasoline,2030,1.024356470742477,0.9640181825646512,NREL Transportation ATB 2024 (raw scenario: Conservative; manuscript alias: Baseline)
+ATB Baseline,cars,gasoline,2035,1.0348068627317035,0.9770445000931184,NREL Transportation ATB 2024 (raw scenario: Conservative; manuscript alias: Baseline)
+ATB Baseline,cars,gasoline,2040,1.0472665046901148,0.9733942940129464,NREL Transportation ATB 2024 (raw scenario: Conservative; manuscript alias: Baseline)
+ATB Baseline,cars,gasoline,2045,1.057464036401022,0.97742599399319,NREL Transportation ATB 2024 (raw scenario: Conservative; manuscript alias: Baseline)
+ATB Baseline,cars,gasoline,2050,1.066976547179025,0.979060289579176,NREL Transportation ATB 2024 (raw scenario: Conservative; manuscript alias: Baseline)
+ATB Baseline,cars,hybrid,2023,0.993696527473204,1.029345389236426,NREL Transportation ATB 2024 (raw scenario: Conservative; manuscript alias: Baseline)
+ATB Baseline,cars,hybrid,2025,1.0,1.0,NREL Transportation ATB 2024 (raw scenario: Conservative; manuscript alias: Baseline)
+ATB Baseline,cars,hybrid,2030,1.0087901886608015,0.973704248803487,NREL Transportation ATB 2024 (raw scenario: Conservative; manuscript alias: Baseline)
+ATB Baseline,cars,hybrid,2035,1.0137027884072487,0.9922630373687664,NREL Transportation ATB 2024 (raw scenario: Conservative; manuscript alias: Baseline)
+ATB Baseline,cars,hybrid,2040,1.0209534825220954,0.994518927173072,NREL Transportation ATB 2024 (raw scenario: Conservative; manuscript alias: Baseline)
+ATB Baseline,cars,hybrid,2045,1.027115584475575,1.0010908064420845,NREL Transportation ATB 2024 (raw scenario: Conservative; manuscript alias: Baseline)
+ATB Baseline,cars,hybrid,2050,1.0326444248613065,1.0051564941238895,NREL Transportation ATB 2024 (raw scenario: Conservative; manuscript alias: Baseline)
+ATB Baseline,cars,phev,2023,1.0126184649944128,1.0311282105651114,NREL Transportation ATB 2024 (raw scenario: Conservative; manuscript alias: Baseline)
+ATB Baseline,cars,phev,2025,1.0,1.0,NREL Transportation ATB 2024 (raw scenario: Conservative; manuscript alias: Baseline)
+ATB Baseline,cars,phev,2030,0.983252877948117,0.9805367737440378,NREL Transportation ATB 2024 (raw scenario: Conservative; manuscript alias: Baseline)
+ATB Baseline,cars,phev,2035,0.9689101341390478,0.9792955945345664,NREL Transportation ATB 2024 (raw scenario: Conservative; manuscript alias: Baseline)
+ATB Baseline,cars,phev,2040,0.964448825008087,0.9755935058107716,NREL Transportation ATB 2024 (raw scenario: Conservative; manuscript alias: Baseline)
+ATB Baseline,cars,phev,2045,0.9653530536058186,0.9775747580296186,NREL Transportation ATB 2024 (raw scenario: Conservative; manuscript alias: Baseline)
+ATB Baseline,cars,phev,2050,0.9678441486355228,0.9780384358512147,NREL Transportation ATB 2024 (raw scenario: Conservative; manuscript alias: Baseline)
+ATB Baseline,cars,electric,2023,1.0623171928694517,1.017827751485945,NREL Transportation ATB 2024 (raw scenario: Conservative; manuscript alias: Baseline)
+ATB Baseline,cars,electric,2025,1.0,1.0,NREL Transportation ATB 2024 (raw scenario: Conservative; manuscript alias: Baseline)
+ATB Baseline,cars,electric,2030,0.8938111937814676,0.9889270030192624,NREL Transportation ATB 2024 (raw scenario: Conservative; manuscript alias: Baseline)
+ATB Baseline,cars,electric,2035,0.8666589398744762,0.9875965796620368,NREL Transportation ATB 2024 (raw scenario: Conservative; manuscript alias: Baseline)
+ATB Baseline,cars,electric,2040,0.851342920989463,0.9856383612701566,NREL Transportation ATB 2024 (raw scenario: Conservative; manuscript alias: Baseline)
+ATB Baseline,cars,electric,2045,0.8435664920849876,0.9849477790975129,NREL Transportation ATB 2024 (raw scenario: Conservative; manuscript alias: Baseline)
+ATB Baseline,cars,electric,2050,0.838288224298769,0.9843023206002198,NREL Transportation ATB 2024 (raw scenario: Conservative; manuscript alias: Baseline)
+ATB Baseline,trucks_light,gasoline,2023,0.9808765926832204,1.0509219925463575,NREL Transportation ATB 2024 (raw scenario: Conservative; manuscript alias: Baseline)
+ATB Baseline,trucks_light,gasoline,2025,1.0,1.0,NREL Transportation ATB 2024 (raw scenario: Conservative; manuscript alias: Baseline)
+ATB Baseline,trucks_light,gasoline,2030,1.0248253970372707,0.942828670564187,NREL Transportation ATB 2024 (raw scenario: Conservative; manuscript alias: Baseline)
+ATB Baseline,trucks_light,gasoline,2035,1.035845395007631,0.9257913326805064,NREL Transportation ATB 2024 (raw scenario: Conservative; manuscript alias: Baseline)
+ATB Baseline,trucks_light,gasoline,2040,1.0421296419794523,0.9123914142246408,NREL Transportation ATB 2024 (raw scenario: Conservative; manuscript alias: Baseline)
+ATB Baseline,trucks_light,gasoline,2045,1.0453173064539212,0.9110803186107838,NREL Transportation ATB 2024 (raw scenario: Conservative; manuscript alias: Baseline)
+ATB Baseline,trucks_light,gasoline,2050,1.0479170428054798,0.9110646828309426,NREL Transportation ATB 2024 (raw scenario: Conservative; manuscript alias: Baseline)
+ATB Baseline,trucks_light,electric,2023,1.054159518557508,1.0211801422419169,NREL Transportation ATB 2024 (raw scenario: Conservative; manuscript alias: Baseline)
+ATB Baseline,trucks_light,electric,2025,1.0,1.0,NREL Transportation ATB 2024 (raw scenario: Conservative; manuscript alias: Baseline)
+ATB Baseline,trucks_light,electric,2030,0.913369651456551,0.989454291890765,NREL Transportation ATB 2024 (raw scenario: Conservative; manuscript alias: Baseline)
+ATB Baseline,trucks_light,electric,2035,0.8902123343898853,0.9892016643599646,NREL Transportation ATB 2024 (raw scenario: Conservative; manuscript alias: Baseline)
+ATB Baseline,trucks_light,electric,2040,0.8750349915810312,0.9887484174685192,NREL Transportation ATB 2024 (raw scenario: Conservative; manuscript alias: Baseline)
+ATB Baseline,trucks_light,electric,2045,0.866332412965455,0.988581769483266,NREL Transportation ATB 2024 (raw scenario: Conservative; manuscript alias: Baseline)
+ATB Baseline,trucks_light,electric,2050,0.8602714876398642,0.988475344785174,NREL Transportation ATB 2024 (raw scenario: Conservative; manuscript alias: Baseline)
+ATB Baseline,bus,diesel,2023,0.9992357999411045,1.0606497770244807,NREL Transportation ATB 2024 (raw scenario: Conservative; manuscript alias: Baseline)
+ATB Baseline,bus,diesel,2025,1.0,1.0,NREL Transportation ATB 2024 (raw scenario: Conservative; manuscript alias: Baseline)
+ATB Baseline,bus,diesel,2030,1.00038309965164,0.9288925917038616,NREL Transportation ATB 2024 (raw scenario: Conservative; manuscript alias: Baseline)
+ATB Baseline,bus,diesel,2035,1.0003873647063255,0.8999117927121727,NREL Transportation ATB 2024 (raw scenario: Conservative; manuscript alias: Baseline)
+ATB Baseline,bus,diesel,2040,1.0003873647063255,0.8981876054647334,NREL Transportation ATB 2024 (raw scenario: Conservative; manuscript alias: Baseline)
+ATB Baseline,bus,diesel,2045,1.0003873647063255,0.8988907379325285,NREL Transportation ATB 2024 (raw scenario: Conservative; manuscript alias: Baseline)
+ATB Baseline,bus,diesel,2050,1.0003873647063255,0.8970809671392299,NREL Transportation ATB 2024 (raw scenario: Conservative; manuscript alias: Baseline)
+ATB Baseline,bus,electric,2023,1.0688109613889432,1.0164542853763876,NREL Transportation ATB 2024 (raw scenario: Conservative; manuscript alias: Baseline)
+ATB Baseline,bus,electric,2025,1.0,1.0,NREL Transportation ATB 2024 (raw scenario: Conservative; manuscript alias: Baseline)
+ATB Baseline,bus,electric,2030,0.9083555822848032,0.9656916384723546,NREL Transportation ATB 2024 (raw scenario: Conservative; manuscript alias: Baseline)
+ATB Baseline,bus,electric,2035,0.8625052009591914,0.955989558441046,NREL Transportation ATB 2024 (raw scenario: Conservative; manuscript alias: Baseline)
+ATB Baseline,bus,electric,2040,0.8364347825471085,0.9555408029633412,NREL Transportation ATB 2024 (raw scenario: Conservative; manuscript alias: Baseline)
+ATB Baseline,bus,electric,2045,0.8193772873115256,0.9545521228224432,NREL Transportation ATB 2024 (raw scenario: Conservative; manuscript alias: Baseline)
+ATB Baseline,bus,electric,2050,0.8062865794149222,0.9527205292364028,NREL Transportation ATB 2024 (raw scenario: Conservative; manuscript alias: Baseline)
+ATB Baseline,trucks,diesel,2023,0.9983587180690529,1.060649777024481,NREL Transportation ATB 2024 (raw scenario: Conservative; manuscript alias: Baseline)
+ATB Baseline,trucks,diesel,2025,1.0,1.0,NREL Transportation ATB 2024 (raw scenario: Conservative; manuscript alias: Baseline)
+ATB Baseline,trucks,diesel,2030,1.004654384804965,0.9208009798548312,NREL Transportation ATB 2024 (raw scenario: Conservative; manuscript alias: Baseline)
+ATB Baseline,trucks,diesel,2035,1.0061986779844896,0.9002823611096494,NREL Transportation ATB 2024 (raw scenario: Conservative; manuscript alias: Baseline)
+ATB Baseline,trucks,diesel,2040,1.0062365989375588,0.8992275198814808,NREL Transportation ATB 2024 (raw scenario: Conservative; manuscript alias: Baseline)
+ATB Baseline,trucks,diesel,2045,1.0061484990295777,0.8988907379325288,NREL Transportation ATB 2024 (raw scenario: Conservative; manuscript alias: Baseline)
+ATB Baseline,trucks,diesel,2050,1.006116886287983,0.89708096713923,NREL Transportation ATB 2024 (raw scenario: Conservative; manuscript alias: Baseline)
+ATB Baseline,trucks,electric,2023,1.1000797622402538,1.0164542853763874,NREL Transportation ATB 2024 (raw scenario: Conservative; manuscript alias: Baseline)
+ATB Baseline,trucks,electric,2025,1.0,1.0,NREL Transportation ATB 2024 (raw scenario: Conservative; manuscript alias: Baseline)
+ATB Baseline,trucks,electric,2030,0.8682158345121165,0.9656916384723546,NREL Transportation ATB 2024 (raw scenario: Conservative; manuscript alias: Baseline)
+ATB Baseline,trucks,electric,2035,0.8021343704553262,0.955989558441046,NREL Transportation ATB 2024 (raw scenario: Conservative; manuscript alias: Baseline)
+ATB Baseline,trucks,electric,2040,0.7642332830106598,0.9555408029633408,NREL Transportation ATB 2024 (raw scenario: Conservative; manuscript alias: Baseline)
+ATB Baseline,trucks,electric,2045,0.7393908877055773,0.9545521228224432,NREL Transportation ATB 2024 (raw scenario: Conservative; manuscript alias: Baseline)
+ATB Baseline,trucks,electric,2050,0.7203398018402064,0.9527205292364028,NREL Transportation ATB 2024 (raw scenario: Conservative; manuscript alias: Baseline)
+ATB Baseline,trucks,hydrogen,2023,1.175928354629595,1.0,NREL Transportation ATB 2024 (raw scenario: Conservative; manuscript alias: Baseline)
+ATB Baseline,trucks,hydrogen,2025,1.0,1.0,NREL Transportation ATB 2024 (raw scenario: Conservative; manuscript alias: Baseline)
+ATB Baseline,trucks,hydrogen,2030,0.8690073818713231,1.0001218029023689,NREL Transportation ATB 2024 (raw scenario: Conservative; manuscript alias: Baseline)
+ATB Baseline,trucks,hydrogen,2035,0.8043953985086373,1.000117864238119,NREL Transportation ATB 2024 (raw scenario: Conservative; manuscript alias: Baseline)
+ATB Baseline,trucks,hydrogen,2040,0.7780504865040406,0.9999330632331662,NREL Transportation ATB 2024 (raw scenario: Conservative; manuscript alias: Baseline)
+ATB Baseline,trucks,hydrogen,2045,0.7517055744994444,0.9997252788581266,NREL Transportation ATB 2024 (raw scenario: Conservative; manuscript alias: Baseline)
+ATB Baseline,trucks,hydrogen,2050,0.7253606624948478,0.9995198287801632,NREL Transportation ATB 2024 (raw scenario: Conservative; manuscript alias: Baseline)
+ATB Baseline,scooters,gasoline,2025,1.0,1.0,DEA scooter cost; ICCT/DEA scooter efficiency
+ATB Baseline,scooters,gasoline,2030,1.0,0.934,DEA scooter cost; ICCT/DEA scooter efficiency
+ATB Baseline,scooters,gasoline,2040,1.0,0.894,DEA scooter cost; ICCT/DEA scooter efficiency
+ATB Baseline,scooters,gasoline,2050,1.0,0.854,DEA scooter cost; ICCT/DEA scooter efficiency
+ATB Baseline,scooters,electric,2025,1.0,1.0,DEA scooter cost; ICCT/DEA scooter efficiency
+ATB Baseline,scooters,electric,2030,0.9785407725,0.97,DEA scooter cost; ICCT/DEA scooter efficiency
+ATB Baseline,scooters,electric,2040,0.9356223176,0.97,DEA scooter cost; ICCT/DEA scooter efficiency
+ATB Baseline,scooters,electric,2050,0.8927038627,0.97,DEA scooter cost; ICCT/DEA scooter efficiency
+ATB Advanced,cars,gasoline,2023,1.0001219760113844,1.077547706989923,NREL Transportation ATB 2024
+ATB Advanced,cars,gasoline,2025,1.0,1.0,NREL Transportation ATB 2024
+ATB Advanced,cars,gasoline,2030,1.0478654198007729,0.7901987905809641,NREL Transportation ATB 2024
+ATB Advanced,cars,gasoline,2035,1.0521345801992277,0.7002320099166341,NREL Transportation ATB 2024
+ATB Advanced,cars,gasoline,2040,1.043264213593549,0.671157217333452,NREL Transportation ATB 2024
+ATB Advanced,cars,gasoline,2045,1.0343938469878702,0.6444006358539027,NREL Transportation ATB 2024
+ATB Advanced,cars,gasoline,2050,1.0255234803821915,0.6196956391221816,NREL Transportation ATB 2024
+ATB Advanced,cars,hybrid,2023,1.0615042295306676,1.1069561219074826,NREL Transportation ATB 2024
+ATB Advanced,cars,hybrid,2025,1.0,1.0,NREL Transportation ATB 2024
+ATB Advanced,cars,hybrid,2030,0.922441392130538,0.8474356930222748,NREL Transportation ATB 2024
+ATB Advanced,cars,hybrid,2035,0.8772591139109781,0.7487847524517486,NREL Transportation ATB 2024
+ATB Advanced,cars,hybrid,2040,0.873348793105067,0.7282032795264918,NREL Transportation ATB 2024
+ATB Advanced,cars,hybrid,2045,0.8694384722991558,0.7087229649671757,NREL Transportation ATB 2024
+ATB Advanced,cars,hybrid,2050,0.8655281514932449,0.690257739299288,NREL Transportation ATB 2024
+ATB Advanced,cars,phev,2023,1.0970403943733185,1.0871888572810793,NREL Transportation ATB 2024
+ATB Advanced,cars,phev,2025,1.0,1.0,NREL Transportation ATB 2024
+ATB Advanced,cars,phev,2030,0.8838639195362862,0.8771933860165945,NREL Transportation ATB 2024
+ATB Advanced,cars,phev,2035,0.8661044800375592,0.8009747237224782,NREL Transportation ATB 2024
+ATB Advanced,cars,phev,2040,0.8583518421543666,0.7726347163735189,NREL Transportation ATB 2024
+ATB Advanced,cars,phev,2045,0.8505992042711737,0.7454338370710251,NREL Transportation ATB 2024
+ATB Advanced,cars,phev,2050,0.842846566387981,0.719265432550986,NREL Transportation ATB 2024
+ATB Advanced,cars,electric,2023,1.1502321014104626,1.0914302593873464,NREL Transportation ATB 2024
+ATB Advanced,cars,electric,2025,1.0,1.0,NREL Transportation ATB 2024
+ATB Advanced,cars,electric,2030,0.8357257632565616,0.8916662065545345,NREL Transportation ATB 2024
+ATB Advanced,cars,electric,2035,0.7977325477593288,0.8186922174484119,NREL Transportation ATB 2024
+ATB Advanced,cars,electric,2040,0.7773820151163483,0.7839987368905208,NREL Transportation ATB 2024
+ATB Advanced,cars,electric,2045,0.7570314824733679,0.7493052563326299,NREL Transportation ATB 2024
+ATB Advanced,cars,electric,2050,0.7366809498303876,0.714611775774739,NREL Transportation ATB 2024
+ATB Advanced,trucks_light,gasoline,2023,1.005371042014752,1.126670667641062,NREL Transportation ATB 2024
+ATB Advanced,trucks_light,gasoline,2025,1.0,1.0,NREL Transportation ATB 2024
+ATB Advanced,trucks_light,gasoline,2030,1.0339541138595707,0.8217713807043433,NREL Transportation ATB 2024
+ATB Advanced,trucks_light,gasoline,2035,1.0392029015037287,0.7384709333299142,NREL Transportation ATB 2024
+ATB Advanced,trucks_light,gasoline,2040,1.0461822676827364,0.702429337018111,NREL Transportation ATB 2024
+ATB Advanced,trucks_light,gasoline,2045,1.0531616338617438,0.6697421000355338,NREL Transportation ATB 2024
+ATB Advanced,trucks_light,gasoline,2050,1.0601410000407516,0.6399617638067793,NREL Transportation ATB 2024
+ATB Advanced,trucks_light,electric,2023,1.1381063715973772,1.084574377396904,NREL Transportation ATB 2024
+ATB Advanced,trucks_light,electric,2025,1.0,1.0,NREL Transportation ATB 2024
+ATB Advanced,trucks_light,electric,2030,0.8062375660389832,0.9004098937532773,NREL Transportation ATB 2024
+ATB Advanced,trucks_light,electric,2035,0.7682880652005362,0.8210432609692982,NREL Transportation ATB 2024
+ATB Advanced,trucks_light,electric,2040,0.7459264690856419,0.7820151624970022,NREL Transportation ATB 2024
+ATB Advanced,trucks_light,electric,2045,0.7235648729707475,0.742987064024706,NREL Transportation ATB 2024
+ATB Advanced,trucks_light,electric,2050,0.701203276855853,0.7039589655524097,NREL Transportation ATB 2024
+ATB Advanced,bus,diesel,2023,0.9970176535667904,1.1175393113036227,NREL Transportation ATB 2024
+ATB Advanced,bus,diesel,2025,1.0,1.0,NREL Transportation ATB 2024
+ATB Advanced,bus,diesel,2030,1.0337113377266829,0.822416363065562,NREL Transportation ATB 2024
+ATB Advanced,bus,diesel,2035,1.0409844148347684,0.773596645217326,NREL Transportation ATB 2024
+ATB Advanced,bus,diesel,2040,1.0450741177225136,0.7381405143783054,NREL Transportation ATB 2024
+ATB Advanced,bus,diesel,2045,1.0491638206102587,0.705796872197164,NREL Transportation ATB 2024
+ATB Advanced,bus,diesel,2050,1.053253523498004,0.6761725376030235,NREL Transportation ATB 2024
+ATB Advanced,bus,electric,2023,1.1872380642210627,1.1237916094537106,NREL Transportation ATB 2024
+ATB Advanced,bus,electric,2025,1.0,1.0,NREL Transportation ATB 2024
+ATB Advanced,bus,electric,2030,0.81065086682774,0.7849465691353634,NREL Transportation ATB 2024
+ATB Advanced,bus,electric,2035,0.7842864633693113,0.7068615664859997,NREL Transportation ATB 2024
+ATB Advanced,bus,electric,2040,0.7664738564815934,0.6773786142513235,NREL Transportation ATB 2024
+ATB Advanced,bus,electric,2045,0.7486612495938755,0.647895662016647,NREL Transportation ATB 2024
+ATB Advanced,bus,electric,2050,0.7308486427061575,0.6184127097819708,NREL Transportation ATB 2024
+ATB Advanced,trucks,diesel,2023,0.9998412755602338,1.1521517435238915,NREL Transportation ATB 2024
+ATB Advanced,trucks,diesel,2025,1.0,1.0,NREL Transportation ATB 2024
+ATB Advanced,trucks,diesel,2030,1.0436774602531609,0.8236860442843783,NREL Transportation ATB 2024
+ATB Advanced,trucks,diesel,2035,1.0473992075463243,0.7563384791411344,NREL Transportation ATB 2024
+ATB Advanced,trucks,diesel,2040,1.0558787929541928,0.7239792655653287,NREL Transportation ATB 2024
+ATB Advanced,trucks,diesel,2045,1.064358378362061,0.6942976848510749,NREL Transportation ATB 2024
+ATB Advanced,trucks,diesel,2050,1.0728379637699297,0.6669727575602793,NREL Transportation ATB 2024
+ATB Advanced,trucks,electric,2023,1.3742538038385057,1.1609901373399687,NREL Transportation ATB 2024
+ATB Advanced,trucks,electric,2025,1.0,1.0,NREL Transportation ATB 2024
+ATB Advanced,trucks,electric,2030,0.6364881827671067,0.7746809285130565,NREL Transportation ATB 2024
+ATB Advanced,trucks,electric,2035,0.5710476841728318,0.6949459235021196,NREL Transportation ATB 2024
+ATB Advanced,trucks,electric,2040,0.5403841172123216,0.6670079961383525,NREL Transportation ATB 2024
+ATB Advanced,trucks,electric,2045,0.5097205502518114,0.6390700687745854,NREL Transportation ATB 2024
+ATB Advanced,trucks,electric,2050,0.4790569832913012,0.6111321414108182,NREL Transportation ATB 2024
+ATB Advanced,trucks,hydrogen,2023,1.2067042911462358,1.212212959580288,NREL Transportation ATB 2024
+ATB Advanced,trucks,hydrogen,2025,1.0,1.0,NREL Transportation ATB 2024
+ATB Advanced,trucks,hydrogen,2030,0.6436153557974256,0.728747330653078,NREL Transportation ATB 2024
+ATB Advanced,trucks,hydrogen,2035,0.6097275063363594,0.6482413981108461,NREL Transportation ATB 2024
+ATB Advanced,trucks,hydrogen,2040,0.5990480721024775,0.6121886434167371,NREL Transportation ATB 2024
+ATB Advanced,trucks,hydrogen,2045,0.5883686378685956,0.5799386639911546,NREL Transportation ATB 2024
+ATB Advanced,trucks,hydrogen,2050,0.5776892036347138,0.5509194823886323,NREL Transportation ATB 2024
+ATB Advanced,scooters,gasoline,2025,1.0,1.0,DEA scooter cost; ICCT/DEA scooter efficiency
+ATB Advanced,scooters,gasoline,2030,1.0,0.934,DEA scooter cost; ICCT/DEA scooter efficiency
+ATB Advanced,scooters,gasoline,2040,1.0,0.894,DEA scooter cost; ICCT/DEA scooter efficiency
+ATB Advanced,scooters,gasoline,2050,1.0,0.854,DEA scooter cost; ICCT/DEA scooter efficiency
+ATB Advanced,scooters,electric,2025,1.0,1.0,DEA scooter cost; ICCT/DEA scooter efficiency
+ATB Advanced,scooters,electric,2030,0.9785407725,0.97,DEA scooter cost; ICCT/DEA scooter efficiency
+ATB Advanced,scooters,electric,2040,0.9356223176,0.97,DEA scooter cost; ICCT/DEA scooter efficiency
+ATB Advanced,scooters,electric,2050,0.8927038627,0.97,DEA scooter cost; ICCT/DEA scooter efficiency
